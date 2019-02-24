@@ -1,14 +1,27 @@
 Articles of Incorporation
 ========
 
+The name of this Corporation is Communio Templorum Romanorum. The Corporation may do business under the name Communion of Temples.
+
 Purpose of Corporation
 -------
 
-This corporation is organized for religious, charitable, educational, and literary purposes,
+This Corporation is organized for religious, charitable, educational, and literary purposes,
 including, for such purposes, the making of distributions to organizations that qualify as
 exempt organizations under Sections 501(c)(3) and 170(c)(2) of the Internal Revenue Code of
 1986 (herein the "Code") (or the corresponding provisions of any future United States
 Internal Revenue Code).
+
+Registered Agent
+----------
+
+Incorporators
+-------------
+
+Members
+-------
+
+The Corporation will have members.
 
 Prohibited Activities
 ----------
@@ -48,8 +61,5 @@ Court of the county in which the principal office of the Corporation is then loc
 for such purposes or to such organizations, such as the Court shall determine, which are
 organized and operated exclusively for such purposes, or to such governments for such purposes.
 
-Amendments to the Articles of Incorporation
-----------
-
-Amendments to these Articles of Incorporation shall only take effect upon agreement of
-three-fourths of the Directors of the Corporation.
+Principle Office
+---------
