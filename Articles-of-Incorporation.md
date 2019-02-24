@@ -63,3 +63,8 @@ organized and operated exclusively for such purposes, or to such governments for
 
 Principle Office
 ---------
+
+Amendments to the Articles of Incorporation
+----------
+
+Amendments to these Articles of Incorporation shall only take effect upon agreement of three-fourths of the Directors of the Corporation and a majority of the Members of the Corporation.
