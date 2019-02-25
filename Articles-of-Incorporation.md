@@ -1,7 +1,9 @@
 Articles of Incorporation
 ========
 
-The name of this Corporation is Communio Templorum Romanorum. The Corporation may do business under the name Communion of Temples.
+The name of this Corporation is <ins>Communio Templorum Romanorum</ins>.
+
+The Corporation may do business under the name <ins>Communion of Temples</ins>.
 
 Purpose of Corporation
 -------
@@ -23,9 +25,9 @@ Members
 
 The Corporation will have members.
 
-Membership of the Corporation shall not be impeded by race, color, ethnicity, sex, gender, sexual
-orientation, gender identity, age, ancestry, national origin, nationality, citizenship, or
-disability status.
+Membership in the Corporation shall not be denied or abridged by race, color, ethnicity, sex,
+gender, sexual orientation, gender identity, age, ancestry, national origin, nationality,
+citizenship, or disability status.
 
 Prohibited Activities
 ----------
