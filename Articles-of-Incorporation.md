@@ -23,8 +23,9 @@ Members
 
 The Corporation will have members.
 
-Membership of the Corporation shall not be impeded by race, ethnicity, sex, gender, sexual
-orientation, or gender identity.
+Membership of the Corporation shall not be impeded by race, color, ethnicity, sex, gender, sexual
+orientation, gender identity, age, ancestry, national origin, nationality, citizenship, or
+disability status.
 
 Prohibited Activities
 ----------
