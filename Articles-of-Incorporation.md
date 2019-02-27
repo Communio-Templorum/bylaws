@@ -3,13 +3,13 @@ Articles of Incorporation
 
 ## 1. Name
 
-The name of this Corporation is <ins>Communio Templorum Romanorum</ins>.
+The name of the Corporation shall be <ins>Communio Templorum Romanorum</ins>.
 
 The Corporation may do business under the name <ins>Communion of Temples</ins>.
 
 ## 2. Purpose of Corporation
 
-This Corporation is organized for religious, charitable, educational, and literary purposes,
+The Corporation is organized for religious, charitable, educational, and literary purposes,
 including, for such purposes, the making of distributions to organizations that qualify as
 exempt organizations under Sections 501(c)(3) and 170(c)(2) of the Internal Revenue Code of
 1986 (herein the "Code") (or the corresponding provisions of any future United States
