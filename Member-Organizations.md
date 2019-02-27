@@ -15,8 +15,13 @@ Ab Initio
 Organized temples/organizations recognized as fully following the Roman Religion but have not
 yet entered an agreement of Full Communion.
 
-* Nova Roma
-* TEMPLVM
+* [Nova Roma](http://www.novaroma.org/nr/Category:Religio_Romana_(Nova_Roma))
+* [Roman Republic](http://romanrepublic.org/bibliotheca/wiki/sacerdotes.html)
+* [TEMPLVM](http://www.templvm.org)
+
+:warning: The Communio Templorum is not interested in interfering with the internal politics of any group.
+	The Communio Templorum seeks only to discuss and resolve religious differences in order to strengthen
+	the religion and to honor the Gods.
 
 Ab Urbe Condita
 --
@@ -26,7 +31,7 @@ Organized temples/organizations recognized as following a cult(s) of the Roman R
 established during either the Roman Kingdom (after Numa Pompilius), the Roman Republic, or the
 Roman Empire. Eligible to enter an agreement of Full Communion unless otherwise stated.
 
-* Temple of Fortuna dot com
+* [Temple of Fortuna dot com](http://www.templeoffortuna.com)
 
 Ab Antiquo
 --
