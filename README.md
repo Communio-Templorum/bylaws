@@ -5,3 +5,4 @@
 * [Incorporating Your Nonprofit in North Carolina](https://www.ncsbc.net/DocumentMaster.aspx?doc=3252)
 * [How to Start a 501(c)(3) Nonprofit Organization in North Carolina Information Packet](https://www.ncnonprofits.org/sites/default/files/HowToStartA501%28c%29%283%29Nonprofit_1_0.pdf)
 * [Guidebook for Boards of Directors of North Carolina Nonprofit Corporations](https://users.wfu.edu/palmitar/Books/Guidebook-2ed.pdf)
+* [Declaration of Principles of the Cultus Deorum Romanorum](http://romanrepublic.org/bibliotheca/wiki/cd_declaration.html)
