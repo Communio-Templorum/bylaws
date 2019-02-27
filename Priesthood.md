@@ -1,6 +1,11 @@
 Priesthood
 ==========
 
+No person may be denied any of the below positions because of race, color, ethnicity, sex, gender,
+sexual orientation, gender identity, ancestry, national origin, nationality, or citizenship.
+Disability status shall also not preclude a person from holding a position below except for those
+positions which require certain rites and rituals the person may be unable to perform.
+
 Pontifex Maximus
 --------
 :information_source: Greatest Priest
@@ -32,11 +37,15 @@ Sacerdos
 --------
 :information_source: Priests
 
-Pater familias
+Pater Familias
 -----
 :information_source: The head of the household <ins>regardless of sex, gender, or gender identity</ins>.
 
 Responsibilities include:
 * Performing the religious rites for the household
 * Teaching the children of the house in the ways of the Religio Romana
-* Honoring the Lar Familias, Penates, and Vesta 
+* Honoring the Lar Familias, Penates, and Vesta
+
+Patres Familiarum recognized and joined in the Corporation shall consistute the Voting Members of the
+Corporation, and of any other member organization(s) held under Foedus Plēnae Commūniōnis as they may
+choose, subject to the governing rules and bylaws of that (those) member organization(s).
