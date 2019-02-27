@@ -1,12 +1,13 @@
 Articles of Incorporation
 ========
 
+## 1. Name
+
 The name of this Corporation is <ins>Communio Templorum Romanorum</ins>.
 
 The Corporation may do business under the name <ins>Communion of Temples</ins>.
 
-Purpose of Corporation
--------
+## 2. Purpose of Corporation
 
 This Corporation is organized for religious, charitable, educational, and literary purposes,
 including, for such purposes, the making of distributions to organizations that qualify as
@@ -14,11 +15,9 @@ exempt organizations under Sections 501(c)(3) and 170(c)(2) of the Internal Reve
 1986 (herein the "Code") (or the corresponding provisions of any future United States
 Internal Revenue Code).
 
-Registered Agent
-----------
+## 3. Registered Agent
 
-Incorporators
--------------
+## 4. Incorporators
 
 The Incorporators of the Corporation shall never be gifted a residence, or part thereof, at
 the expense of the Corporation, nor provided such as compensation for services rendered,
@@ -28,8 +27,7 @@ and none of whom is an Incorporator.
 The Corporation shall not accept any gifts of real property from an Incorporator that serves
 or will serve as the primary or a secondary residence of any Incorporator.
 
-Members
--------
+## 5. Members
 
 The Corporation will have members.
 
@@ -37,8 +35,7 @@ Membership in the Corporation shall not be denied or abridged by race, color, et
 gender, sexual orientation, gender identity, age, ancestry, national origin, nationality,
 citizenship, or disability status.
 
-Prohibited Activities
-----------
+## 6. Prohibited Activities
 
 No part of the net earnings of the Corporation shall inure to the benefit of or be
 distributable to, its Members, Directors, Officers, or other private persons except that the
@@ -60,8 +57,7 @@ any other activities not permitted to be carried on (a) by a corporation exempt 
 income tax under Section 501(c)(3) of the Code or (b) by a corporation, contributions to
 which are deductible under Section 170(c)(2) of the Code.
 
-Distributions Upon Dissolution
--------------
+## 7. Distributions Upon Dissolution
 
 Upon the dissolution of the Corporation, the Board of Directors shall, after paying or making
 provision for the payment of all of the liabilities of the Corporation, dispose of all of the
@@ -75,11 +71,9 @@ Court of the county in which the principal office of the Corporation is then loc
 for such purposes or to such organizations, such as the Court shall determine, which are
 organized and operated exclusively for such purposes, or to such governments for such purposes.
 
-Principle Office
----------
+## 8. Principle Office
 
-Board of Directors
------
+## 9. Board of Directors
 
 The Pontifex Maximus shall be charged with the entire system of religious rites recognized by
 the Corporation, which system shall be written out for him and include the manner and timing of
@@ -90,11 +84,9 @@ funerary rites including appeasing the dead, and expiation of prodigies.
 :information_source: From the job description given to [Numa Marcius](https://en.wikipedia.org/wiki/Numa_Marcius)
 from King Numa Pompilius.
 
-Officers
---------
+## 10. Officers
 
-Amendments to the Articles of Incorporation
-----------
+## 11. Amendments to the Articles of Incorporation
 
 Amendments to these Articles of Incorporation shall only take effect upon agreement of
 three-fourths of the Directors of the Corporation and a majority of the Members of the
