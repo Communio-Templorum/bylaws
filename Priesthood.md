@@ -3,20 +3,30 @@ Priesthood
 
 Pontifex Maximus
 --------
-:information_source:
+:information_source: Greatest Priest
+
+The Pontifex Maximus shall be charged with the entire system of religious rites recognized by
+the Corporation, which system shall be written out for him and include the manner and timing of
+sacrifices, the supervision of religious funds, authority over all religious institutions
+recognized as Members of the Corporation, instruction of the populace in the celestial and
+funerary rites including appeasing the dead, and expiation of prodigies.
+
+:point_right: From the job description given to Numa Marcius from King Numa Pompilius.
 
 Flamen
 ------
-:information_source:
+:information_source: Cardinal Priests
 
-Each Flamen is charged with the responsibility to oversee the rites and rituals in the worship
-to the God or Goddess of their cult. The Flamen must work with the Pontiffs and Sacerdos in
-establishing and carrying out the rites and rituals and promulgating such to all temples,
-priests, practitioners, and followers of their cult.
+Each recognized Cult shall have one Flamen, elected by the Cult's Pontiffs with agreement from the
+Pontifex Maximus.
+
+Each Flamen is charged with the responsibility of overseeing the rites and rituals of their Cult. The
+Flamen must work with the Pontiffs and Sacerdos in establishing and carrying out the rites and rituals
+and promulgating such to all temples, priests, practitioners, and followers of their Cult.
 
 Pontiff
 -------
-:information_source:
+:information_source: Senior Priests
 
 Sacerdos
 --------
