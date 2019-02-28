@@ -75,15 +75,6 @@ organized and operated exclusively for such purposes, or to such governments for
 
 ## 9. Board of Directors
 
-The Pontifex Maximus shall be charged with the entire system of religious rites recognized by
-the Corporation, which system shall be written out for him and include the manner and timing of
-sacrifices, the supervision of religious funds, authority over all religious institutions
-recognized as Members of the Corporation, instruction of the populace in the celestial and
-funerary rites including appeasing the dead, and expiation of prodigies.
-
-:information_source: From the job description given to [Numa Marcius](https://en.wikipedia.org/wiki/Numa_Marcius)
-from King Numa Pompilius.
-
 ## 10. Officers
 
 ## 11. Amendments to the Articles of Incorporation
