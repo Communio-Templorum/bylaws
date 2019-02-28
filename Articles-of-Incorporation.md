@@ -9,11 +9,16 @@ The Corporation may do business under the name <ins>Communion of Temples</ins>.
 
 ## 2. Purpose of Corporation
 
-The Corporation is organized for religious, charitable, educational, and literary purposes,
-including, for such purposes, the making of distributions to organizations that qualify as
-exempt organizations under Sections 501(c)(3) and 170(c)(2) of the Internal Revenue Code of
-1986 (herein the "Code") (or the corresponding provisions of any future United States
-Internal Revenue Code).
+1. The Corporation is organized for religious, charitable, educational, and literary purposes,
+	including, for such purposes, the making of distributions to organizations that qualify as
+	exempt organizations under Sections 501(c)(3) and 170(c)(2) of the Internal Revenue Code of
+	1986 (herein the "Code") (or the corresponding provisions of any future United States
+	Internal Revenue Code).
+
+1. The primary mission of the Corporation is the preservation and promotion of the Religio
+	Romana. To acheive this mission, we recognize the need to unite the followers of the
+	religion and to provide a forum for all interested parties to acheive a consensus so as to
+	promote and safeguard the Pax Deorum.
 
 * [ ] Outline basic beliefs of the Corporation
 * [ ] Add mission of the Corporation in the furtherance and protection of the above beliefs
