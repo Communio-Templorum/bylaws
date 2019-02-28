@@ -15,6 +15,9 @@ exempt organizations under Sections 501(c)(3) and 170(c)(2) of the Internal Reve
 1986 (herein the "Code") (or the corresponding provisions of any future United States
 Internal Revenue Code).
 
+* [ ] Outline basic beliefs of the Corporation
+* [ ] Add mission of the Corporation in the furtherance and protection of the above beleifs
+
 ## 3. Registered Agent
 
 ## 4. Incorporators
@@ -33,6 +36,9 @@ The Corporation will have members.
 Membership in the Corporation shall not be denied or abridged by race, color, ethnicity, sex,
 gender, sexual orientation, gender identity, age, ancestry, national origin, nationality,
 citizenship, or disability status.
+
+* [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
+* [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
 
 ## 6. Prohibited Activities
 
@@ -74,7 +80,7 @@ organized and operated exclusively for such purposes, or to such governments for
 
 ## 9. Board of Directors
 
-* [ ] Incorporate rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
+* [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
 
 ## 10. Officers
 
