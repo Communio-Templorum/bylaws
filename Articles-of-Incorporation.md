@@ -16,7 +16,7 @@ exempt organizations under Sections 501(c)(3) and 170(c)(2) of the Internal Reve
 Internal Revenue Code).
 
 * [ ] Outline basic beliefs of the Corporation
-* [ ] Add mission of the Corporation in the furtherance and protection of the above beleifs
+* [ ] Add mission of the Corporation in the furtherance and protection of the above beliefs
 
 ## 3. Registered Agent
 
