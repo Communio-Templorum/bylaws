@@ -20,12 +20,11 @@ Internal Revenue Code).
 ## 4. Incorporators
 
 The Incorporators of the Corporation shall never be gifted a residence, or part thereof, at
-the expense of the Corporation, nor provided such as compensation for services rendered,
-unless a majority of Directors and Officers agree to such when there are at least 9 Directors
-and none of whom is an Incorporator.
-
-The Corporation shall not accept any gifts of real property from an Incorporator that serves
-or will serve as the primary or a secondary residence of any Incorporator.
+the expense of the Corporation, nor provided such as compensation for services rendered. The
+Corporation further shall not accept any gifts of real property from an Incorporator that
+serves or will serve as the primary or a secondary residence of any Incorporator, nor pay for
+any part thereof. An exception to this paragraph can only be made by a majority of Directors
+and Officers when there are at least 9 Directors, none of whom is an Incorporator.
 
 ## 5. Members
 
