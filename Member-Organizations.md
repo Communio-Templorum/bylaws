@@ -16,8 +16,10 @@ Organized temples/organizations recognized as fully following the Roman Religion
 yet entered an agreement of Full Communion.
 
 * [Nova Roma](http://www.novaroma.org/nr/Category:Religio_Romana_(Nova_Roma))
+* [Nova Roma](http://nova-roma.org/)
 * [Roman Republic](http://romanrepublic.org/bibliotheca/wiki/sacerdotes.html)
 * [TEMPLVM](http://www.templvm.org)
+* [Res Publica Romana](http://www.respublica-romana.com/home)
 
 :warning: The Communio Templorum is not interested in interfering with the internal politics of any group.
 	The Communio Templorum seeks only to discuss and resolve religious differences in order to strengthen
