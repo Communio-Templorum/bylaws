@@ -87,6 +87,9 @@ organized and operated exclusively for such purposes, or to such governments for
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
 
+The fiscal year of the Corporation shall follow the old calendar year of Ancient Rome: to begin
+March 1 and run through February.
+
 ## 10. Officers
 
 ## 11. Amendments to the Articles of Incorporation
