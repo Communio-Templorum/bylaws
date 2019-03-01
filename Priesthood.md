@@ -18,6 +18,12 @@ funerary rites including appeasing the dead, and expiation of prodigies.
 
 :point_right: From the job description given to Numa Marcius from King Numa Pompilius.
 
+Pontifex Secundus
+--------
+:information_source: Second Priest
+
+The head priest of an organization in the Foedus Plenae Communionis.
+
 Flamen
 ------
 :information_source: Cardinal Priests
