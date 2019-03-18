@@ -42,6 +42,14 @@ Membership in the Corporation shall not be denied or abridged by race, color, et
 gender, sexual orientation, gender identity, age, ancestry, national origin, nationality,
 citizenship, or disability status.
 
+### Pater Familias
+* Full Voting Members shall have the title of "Pater Familias" and the title cannot be denied to
+  any individual on basis of race, color, ethnicity, sex, gender, sexual orientation, gender
+  identity, ancestry, national origin, nationality, citizenship, or disability status.
+* Qualifications and requirements for Pater Familias may be futher outlined in the Bylaws.
+
+### Non-voting Members
+
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
 
@@ -95,6 +103,6 @@ March 1 and run through February.
 ## 11. Amendments to the Articles of Incorporation
 
 Amendments to these Articles of Incorporation shall only take effect upon agreement of
-three-fourths of the Directors of the Corporation and a majority of the Members of the
-Corporation. The exceptions shall only be in changing the Registered Agent or Principle Office,
-which shall only require an agreement of a majority of the Directors and of the Officers.
+three-fourths of the Directors of the Corporation and a majority of the Full Voting Members of
+the Corporation. The exceptions shall only be in changing the Registered Agent or Principle
+Office, which shall only require an agreement of a majority of the Directors and of the Officers.
