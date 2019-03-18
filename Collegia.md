@@ -1,6 +1,19 @@
 Collegia
 ========
 
+Collegium Pontificum
+---------
+
+:information_source: College of Pontiffs
+
+### Membership
+
+* All Pontifex Secundus of the Communio Templorum
+
+### Duties and Responsibilities
+
+* The election of the Pontifex Maximus
+
 Collegium Flaminum Larum
 ---------
 
@@ -15,7 +28,7 @@ Collegium Flaminum Larum
 * Pontiffs of the Cult Larum appointed by the Flamen Larum
 * Pontiffs of the Cult Penatum appointed by the Flamen Penatum
 
-### Duties and Responsbilities
+### Duties and Responsibilities
 
 The primary mission of the Collegium Flaminum Larum shall be for the training of persons
 seeking the formal position of Pater Familias, persons seeking to be recognized as such
