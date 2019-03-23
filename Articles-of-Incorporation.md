@@ -20,6 +20,16 @@ The Corporation may do business under the name <ins>Communion of Temples</ins>.
 	religion and to provide a forum for all interested parties to acheive a consensus so as to
 	promote and safeguard the Pax Deorum.
 
+1. The Corporation shall always honor the Gods as they were known to the Romans and as they
+	have further revealed themselves in this new era of enlightenment to the people.
+
+1. The Corporation is further tasked to promote and promulgate the Religio Romana, to
+	encourage new members to join in the rites and rituals of the religion, and to join or form
+	a local Temple of the Religio Romana.
+
+1. The Corporation is further tasked to protect the Relgio Romana and its Temples and ensure
+	that people continue to live in the Pax Deorum.
+
 * [ ] Outline basic beliefs of the Corporation
 * [ ] Add mission of the Corporation in the furtherance and protection of the above beliefs
 
