@@ -5,7 +5,7 @@ Articles of Incorporation
 
 The name of the Corporation shall be <ins>Communio Templorum Romanorum</ins>.
 
-The Corporation may do business under the name <ins>Communion of Temples</ins>.
+The Corporation may do business under the name <ins>Communio Templorum</ins> or <ins>Communion of Temples</ins>.
 
 ## 2. Purpose of Corporation
 
