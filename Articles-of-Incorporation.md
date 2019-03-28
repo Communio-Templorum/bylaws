@@ -52,11 +52,15 @@ Membership in the Corporation shall not be denied or abridged by race, color, et
 gender, sexual orientation, gender identity, age, ancestry, national origin, nationality,
 citizenship, or disability status.
 
+No person can be denoted as a Member of the Corporation without their express permission.
+
 ### Pater Familias
-* Full Voting Members shall have the title of "Pater Familias" and the title cannot be denied to
-  any individual on basis of race, color, ethnicity, sex, gender, sexual orientation, gender
-  identity, ancestry, national origin, nationality, citizenship, or disability status.
-* Qualifications and requirements for Pater Familias may be futher outlined in the Bylaws.
+
+* The title of "Pater Familias" may be confirmed onto select Members, qualifications and
+	requirements for such title to be outlined in the Bylaws.
+* The title of "Pater Familias" cannot be denied to any individual on basis of race, color,
+	ethnicity, sex, gender, sexual orientation, gender identity, ancestry, national origin,
+	nationality, citizenship, or disability status.
 
 ### Non-voting Members
 
