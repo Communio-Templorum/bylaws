@@ -55,6 +55,23 @@ March 1 and run through February.
 
 ## 7. Officers
 
+### Treasurer
+
+At the end of the fiscal year, the Delegates of the Corporation shall appoint by simple majority
+one Member to act as Treasurer for the following fiscal year. The Treasurer shall be charged with
+the following duties and responsibilities:
+
+* Financial planning and budgeting for the Corporation to ensure fiscal responsibility and
+	wellbeing.
+
+* Present a budget, for the following fiscal year, to the Directors for their approval no later
+	than the last month of the fiscal year.
+
+* Organize and oversee fundraising activities and other funding sources.
+
+* Maintaining accurate bookkeeping records that must be available for review by any Delegate or
+	Officer upon request at any time.
+
 ## 8. Members
 
 The Corporation will have members.
