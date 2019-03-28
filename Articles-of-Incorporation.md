@@ -35,7 +35,9 @@ The Corporation may do business under the name <ins>Communion of Temples</ins>.
 
 ## 3. Registered Agent
 
-## 4. Incorporators
+## 4. Principal Office
+
+## 5. Incorporators
 
 The Incorporators of the Corporation shall never be gifted a residence, or part thereof, at
 the expense of the Corporation, nor provided such as compensation for services rendered. The
@@ -44,7 +46,16 @@ serves or will serve as the primary or a secondary residence of any Incorporator
 any part thereof. An exception to this paragraph can only be made by a majority of Directors
 and Officers when there are at least 9 Directors, none of whom is an Incorporator.
 
-## 5. Members
+## 6. Board of Directors
+
+* [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
+
+The fiscal year of the Corporation shall follow the old calendar year of Ancient Rome: to begin
+March 1 and run through February.
+
+## 7. Officers
+
+## 8. Members
 
 The Corporation will have members.
 
@@ -67,7 +78,7 @@ No person can be denoted as a Member of the Corporation without their express pe
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
 
-## 6. Prohibited Activities
+## 9. Prohibited Activities
 
 No part of the net earnings of the Corporation shall inure to the benefit of or be
 distributable to, its Members, Directors, Officers, or other private persons except that the
@@ -89,7 +100,7 @@ any other activities not permitted to be carried on (a) by a corporation exempt 
 income tax under Section 501(c)(3) of the Code or (b) by a corporation, contributions to
 which are deductible under Section 170(c)(2) of the Code.
 
-## 7. Distributions Upon Dissolution
+## 10. Distributions Upon Dissolution
 
 Upon the dissolution of the Corporation, the Board of Directors shall, after paying or making
 provision for the payment of all of the liabilities of the Corporation, dispose of all of the
@@ -102,17 +113,6 @@ for public purposes. Any such assets not so disposed of shall be disposed of by 
 Court of the county in which the principal office of the Corporation is then located, exclusively
 for such purposes or to such organizations, such as the Court shall determine, which are
 organized and operated exclusively for such purposes, or to such governments for such purposes.
-
-## 8. Principle Office
-
-## 9. Board of Directors
-
-* [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
-
-The fiscal year of the Corporation shall follow the old calendar year of Ancient Rome: to begin
-March 1 and run through February.
-
-## 10. Officers
 
 ## 11. Amendments to the Articles of Incorporation
 
