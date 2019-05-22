@@ -28,7 +28,7 @@ Flamen
 ------
 :information_source: Cardinal Priests
 
-Each recognized Cult shall have one Flamen, elected by the Cult's Pontiffs with agreement from the
+Each recognized Cult shall have one Flamen, elected by that Cult's Pontiffs with consent from the
 Pontifex Maximus.
 
 Each Flamen is charged with the responsibility of overseeing the rites and rituals of their Cult. The
