@@ -12,8 +12,7 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 1. The Corporation is organized for religious, charitable, educational, and literary purposes,
 	including, for such purposes, the making of distributions to organizations that qualify as
 	exempt organizations under Sections 501(c)(3) and 170(c)(2) of the Internal Revenue Code of
-	1986 (herein the "Code") (or the corresponding provisions of any future United States
-	Internal Revenue Code).
+	1986 (or the corresponding provisions of any future United States Internal Revenue Code).
 
 1. The primary mission of the Corporation is the preservation and promotion of the Religio
 	Romana. To acheive this mission, we recognize the need to unite the followers of the
@@ -31,7 +30,6 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 	order to promote and safeguard the Pax Deorum.
 
 * [ ] Outline basic beliefs of the Corporation
-* [ ] Add mission of the Corporation in the furtherance and protection of the above beliefs
 
 ## 3. Registered Agent
 
@@ -44,9 +42,26 @@ the expense of the Corporation, nor provided such as compensation for services r
 Corporation further shall not accept any gifts of real property from an Incorporator that
 serves or will serve as the primary or a secondary residence of any Incorporator, nor pay for
 any part thereof. An exception to this paragraph can only be made by a majority of Directors
-and Officers when there are at least 9 Directors, none of whom is an Incorporator.
+and Officers when there are at least 7 Directors, not including the Incorporators who shall
+not participate in this vote.
 
 ## 6. Board of Directors
+
+The Board of Directors shall be composed of the following individuals:
+
+1. The Incorporators, in a lifetime position as long as they are in good health and sound state
+	of mind.
+
+1. The Pontifex Maximus, in a lifetime position as long as they are in good health and sound
+	state of mind and continue to fulfill their duties as Pontifex Maximus.
+
+1. 3 persons, elected by the 	Pontificēs Secundī, to serve a term of six years, and the elections
+	of which shall be staggered to one every two years. An election to fill a vacancy for the
+	remainder of the term may take place as the Pontificēs Secundī choose.
+
+1. 5 persons, elected by the Patres Familiarum to serve, to serve a term of five years, and the
+	elections of which shall be staggered to one each year. The procedure to elect a new Director
+	to fill a vacancy for the remainder of the term shall be outlined in the bylaws.
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
 
@@ -57,7 +72,7 @@ March 1 and run through February.
 
 ### Treasurer
 
-At the end of the fiscal year, the Delegates of the Corporation shall appoint by simple majority
+At the end of the fiscal year, the Directors of the Corporation shall appoint by simple majority
 one Member to act as Treasurer for the following fiscal year. The Treasurer shall be charged with
 the following duties and responsibilities:
 
@@ -84,9 +99,9 @@ No person can be denoted as a Member of the Corporation without their express pe
 
 ### Pater Familias
 
-* The title of "Pater Familias" may be confirmed onto select Members, qualifications and
-	requirements for such title to be outlined in the Bylaws.
-* The title of "Pater Familias" cannot be denied to any individual on basis of race, color,
+* The title of "Pater Familias" may be conferred onto select Members. Qualifications and
+	requirements for such title shall be outlined in the Bylaws.
+* The title of "Pater Familias" cannot be denied to any individual on the basis of race, color,
 	ethnicity, sex, gender, sexual orientation, gender identity, ancestry, national origin,
 	nationality, citizenship, or disability status.
 
@@ -114,8 +129,9 @@ political campaign on behalf of or in opposition to any candidate for public off
 
 Notwithstanding any other provisions of these Articles, the Corporation shall not carry on
 any other activities not permitted to be carried on (a) by a corporation exempt from federal
-income tax under Section 501(c)(3) of the Code or (b) by a corporation, contributions to
-which are deductible under Section 170(c)(2) of the Code.
+income tax under Section 501(c)(3) of the Internal Revenue Code of 1986 or (b) by a corporation,
+contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code of
+1986.
 
 ## 10. Distributions Upon Dissolution
 
@@ -124,12 +140,13 @@ provision for the payment of all of the liabilities of the Corporation, dispose 
 assets of the Corporation exclusively for the purposes of the Corporation in such manner, or
 to such organization or organizations organized and operated exclusively for religious,
 charitable, educational, scientific, or literary purposes as shall at the time qualify as an
-exempt organization or organizations under Section 501(c)(3) of the Code as the Board of
-Directors shall determine, or to federal, state, or local governments to be used exclusively
-for public purposes. Any such assets not so disposed of shall be disposed of by the Superior
-Court of the county in which the principal office of the Corporation is then located, exclusively
-for such purposes or to such organizations, such as the Court shall determine, which are
-organized and operated exclusively for such purposes, or to such governments for such purposes.
+exempt organization or organizations under Section 501(c)(3) of the Internal Revenue Code of
+1986 as the Board of Directors shall determine, or to federal, state, or local governments to be
+used exclusively for public purposes. Any such assets not so disposed of shall be disposed of by
+the Superior Court of the county in which the principal office of the Corporation is then
+located, exclusively for such purposes or to such organizations, such as the Court shall
+determine, which are organized and operated exclusively for such purposes, or to such governments
+for such purposes.
 
 ## 11. Amendments to the Articles of Incorporation
 
