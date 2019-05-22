@@ -42,24 +42,24 @@ the expense of the Corporation, nor provided such as compensation for services r
 Corporation further shall not accept any gifts of real property from an Incorporator that
 serves or will serve as the primary or a secondary residence of any Incorporator, nor pay for
 any part thereof. An exception to this paragraph can only be made by a majority of Directors
-and Officers when there are at least 7 Directors, not including the Incorporators who shall
+and Officers when there are at least seven Directors, not including the Incorporators who shall
 not participate in this vote.
 
 ## 6. Board of Directors
 
 The Board of Directors shall be composed of the following individuals:
 
-1. The Incorporators, in a lifetime position as long as they are in good health and sound state
+* The Incorporators, in a lifetime position as long as they are in good health and sound state
 	of mind.
 
-1. The Pontifex Maximus, in a lifetime position as long as they are in good health and sound
+* The Pontifex Maximus, in a lifetime position as long as they are in good health and sound
 	state of mind and continue to fulfill their duties as Pontifex Maximus.
 
-1. 3 persons, elected by the 	Pontificēs Secundī, to serve a term of six years, and the elections
+* Three persons, elected by the 	Pontificēs Secundī, to serve a term of six years, and the elections
 	of which shall be staggered to one every two years. An election to fill a vacancy for the
 	remainder of the term may take place as the Pontificēs Secundī choose.
 
-1. 5 persons, elected by the Patres Familiarum to serve, to serve a term of five years, and the
+* Five persons, elected by the Patres Familiarum to serve, to serve a term of five years, and the
 	elections of which shall be staggered to one each year. The procedure to elect a new Director
 	to fill a vacancy for the remainder of the term shall be outlined in the bylaws.
 
