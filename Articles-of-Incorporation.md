@@ -82,7 +82,7 @@ Incorporator who may participate in this vote.
 	Corporation. The Bylaws may be amended at any meeting of the Board of Directors by a
 	majority vote of the Directors present.
 
-1. Written notice of all meetings shall be given to each Patres Familiarum in a reasonable
+1. Written notice of all meetings shall be given to each Pater Familias in a reasonable
 	time prior to the meeting as set in the Bylaws.
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
