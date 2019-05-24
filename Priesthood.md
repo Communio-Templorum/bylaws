@@ -45,7 +45,7 @@ Sacerdos
 
 Pater Familias
 -----
-:information_source: The head of the household <ins>regardless of sex, gender, or gender identity</ins>.
+:information_source: The head of the household _regardless of sex, gender, or gender identity_.
 
 Responsibilities include:
 * Performing the religious rites for the household
