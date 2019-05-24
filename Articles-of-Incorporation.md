@@ -42,50 +42,81 @@ the expense of the Corporation, nor provided such as compensation for services r
 Corporation further shall not accept any gifts of real property from an Incorporator that
 serves or will serve as the primary or a secondary residence of any Incorporator, nor pay for
 any part thereof. An exception to this paragraph can only be made by a majority of Directors
-and Officers when there are at least seven Directors, not including the Incorporators who shall
-not participate in this vote.
+and Officers when there are at least seven Directors, not including the Incorporators, and no
+Incorporator who may participate in this vote.
 
 ## 6. Board of Directors
 
-The Board of Directors shall be composed of the following individuals:
+1. The business affairs of the Corporation shall be managed by its Board of Directors. The
+	Board of Directors shall have control of and be responsible for the management of the affairs
+	and property of the Corporation.
 
-* The Incorporators, in a lifetime position as long as they are in good health and sound state
-	of mind.
+1. The Board of Directors shall be composed of the following individuals:
 
-* The Pontifex Maximus, in a lifetime position as long as they are in good health and sound
-	state of mind and continue to fulfill their duties as Pontifex Maximus.
+	* The Incorporators, in a lifetime position as long as they are in good health and sound
+		state of mind.
 
-* Three persons, elected by the 	Pontificēs Secundī, to serve a term of six years, and the elections
-	of which shall be staggered to one every two years. An election to fill a vacancy for the
-	remainder of the term may take place as the Pontificēs Secundī choose.
+	* The Pontifex Maximus, in a lifetime position as long as they are in good health, sound
+		state of mind, and continue to fulfill their duties as Pontifex Maximus.
 
-* Five persons, elected by the Patres Familiarum to serve, to serve a term of five years, and the
-	elections of which shall be staggered to one each year. The procedure to elect a new Director
-	to fill a vacancy for the remainder of the term shall be outlined in the bylaws.
+	* Three persons, elected by the Pontificēs Secundī and the Flamen, to serve a term of six
+		years, and the elections of which shall be staggered to one every two years. Elections
+		of these Directors, and to fill a vacancy for the remainder of the term, shall take place
+		as the Pontificēs Secundī and Flamen choose.
+
+	* Three persons, elected by the Patres Familiarum, to serve a term of three years, the
+		elections of which shall be staggered to one each year with the results certified by the
+		Pontifex Maximus. The method of elections and how to fill any vacancy shall be outlined
+		in the bylaws of the Patres Familiarum.
+
+1. Regular meetings of the Board shall be held at least once within any 3-month span, at a
+	time and place designated by the Chair, or by a resolution of the Board of Directors.
+	
+	* Any Patres Familiarum shall be allowed to give comments at such meetings.
+	
+	* A regular meeting may be called upon petition of ten percent of the Patres Familiarum.
+
+1. Special meetings may be called by the Chair or by a majority of the Board of Directors.
+
+1. The Board of Directors shall be tasked with keeping and maintaining the Bylaws of the
+	Corporation. The Bylaws may be amended at any meeting of the Board of Directors by a
+	majority vote of the Directors present.
+
+1. Written notice of all meetings shall be given to each Patres Familiarum in a reasonable
+	time prior to the meeting as set in the Bylaws.
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
-
-The fiscal year of the Corporation shall follow the old calendar year of Ancient Rome: to begin
-March 1 and run through February.
 
 ## 7. Officers
 
 ### Treasurer
 
-At the end of the fiscal year, the Directors of the Corporation shall appoint by simple majority
-one Member to act as Treasurer for the following fiscal year. The Treasurer shall be charged with
-the following duties and responsibilities:
+The Board of Directors shall appoint by simple majority one Active Member to act as Treasurer
+for a term lasting no longer than two years. The Treasurer shall be charged with the following
+duties and responsibilities:
 
 * Financial planning and budgeting for the Corporation to ensure fiscal responsibility and
 	wellbeing.
 
-* Present a budget, for the following fiscal year, to the Directors for their approval no later
-	than the last month of the fiscal year.
+* Present a budget, for the following fiscal year, to the Board of Directors for their
+	approval no later than the last month of the current fiscal year.
 
 * Organize and oversee fundraising activities and other funding sources.
 
-* Maintaining accurate bookkeeping records that must be available for review by any Delegate or
-	Officer upon request at any time.
+* Maintaining accurate bookkeeping records according to generally accepted accounting
+	principles.
+
+### Pontifex Maximus
+
+### Pontificēs Secundī
+
+### Flamen
+
+### Other Officers
+
+The Board of Directors shall have authority to elect other Officers of the Corporation as
+needed. The officers and their duties, responsibilities, qualifications, requirements, and
+method of election shall by outlined in the Bylaws.
 
 ## 8. Members
 
@@ -99,13 +130,24 @@ No person can be denoted as a Member of the Corporation without their express pe
 
 ### Pater Familias
 
-* The title of "Pater Familias" may be conferred onto select Members. Qualifications and
+* The title of "Pater Familias" may be conferred onto select Active Members. Qualifications and
 	requirements for such title shall be outlined in the Bylaws.
+
 * The title of "Pater Familias" cannot be denied to any individual on the basis of race, color,
 	ethnicity, sex, gender, sexual orientation, gender identity, ancestry, national origin,
 	nationality, citizenship, or disability status.
 
+* A majority of Patres Familiarum shall meet at least once each calendar year to elect from
+	amongst themselves their representative to the Board of Directors and to discuss other business
+	of the Corporation as they see fit.
+
+	* The Patres Familiarum may keep and record a set of bylaws applying to their organization
+		as they see fit.
+
 ### Non-voting Members
+
+Any person may choose to join the Corporation as a non-voting member. Qualifications and
+requirement to be considered as an Active Member of the Corporation shall be set in the Bylaws.
 
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
@@ -151,6 +193,6 @@ for such purposes.
 ## 11. Amendments to the Articles of Incorporation
 
 Amendments to these Articles of Incorporation shall only take effect upon agreement of
-three-fourths of the Directors of the Corporation and a majority of the Full Voting Members of
-the Corporation. The exceptions shall only be in changing the Registered Agent or Principle
-Office, which shall only require an agreement of a majority of the Directors and of the Officers.
+three-fourths of the Board of Directors and a majority of the Patres Familiarum the Corporation.
+The only exceptions shall be in changing the Registered Agent or Principal Office, which shall
+only require an agreement of a majority of the Board of Directors.
