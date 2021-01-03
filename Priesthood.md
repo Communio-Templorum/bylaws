@@ -42,6 +42,19 @@ Pontiff
 Sacerdos
 --------
 :information_source: Priests
+  
+Minister
+--------
+:information_source: Attendant, Servant, Agent
+
+:warning: or perhaps +Magister+, teacher
+
+Every town, village, and community needs at least one Minister with deference to the broad Religio
+Romana. Their responsibilities shall include:
+1. lead public rituals for the many Gods and Goddesses;
+2. lead services such as weddings and funerals;
+3. host meetings, at least weekly, in order to teach beliefs to the community; and
+4. provide spiritual guidance to the community.
 
 Pater Familias
 -----
@@ -52,6 +65,6 @@ Responsibilities include:
 * Teaching the children of the house in the ways of the Religio Romana
 * Honoring the Lar Familias, Penates, and Vesta
 
-Patres Familiarum recognized and joined in the Corporation shall consistute the Voting Members of the
+Patres Familiarum recognized and joined in the Corporation shall constitute the Voting Members of the
 Corporation, and of any other member organization(s) held under Foedus Plēnae Commūniōnis as they may
 choose, subject to the governing rules and bylaws of that (those) member organization(s).
