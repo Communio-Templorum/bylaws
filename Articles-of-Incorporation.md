@@ -43,7 +43,7 @@ Corporation further shall not accept any gifts of real property from an Incorpor
 serves or will serve as the primary or a secondary residence of any Incorporator, nor pay for
 any part thereof. An exception to this paragraph can only be made by a majority of Directors
 and Officers when there are at least seven Directors, not including the Incorporators, and no
-Incorporator who may participate in this vote.
+Incorporator may participate in this vote.
 
 ## 6. Board of Directors
 
@@ -115,7 +115,7 @@ duties and responsibilities:
 ### Other Officers
 
 The Board of Directors shall have authority to elect other Officers of the Corporation as
-needed. The officers and their duties, responsibilities, qualifications, requirements, and
+needed. The Officers and their duties, responsibilities, qualifications, requirements, and
 method of election shall by outlined in the Bylaws.
 
 ## 8. Members
@@ -127,6 +127,9 @@ gender, sexual orientation, gender identity, age, ancestry, national origin, nat
 citizenship, or disability status.
 
 No person can be denoted as a Member of the Corporation without their express permission.
+
+The Corporation shall not direct or encourage Members to shun any individual person, whether they
+be a current or former Member of the Corporation or in any way unaffiliated with the Corporation.
 
 ### Pater Familias
 
