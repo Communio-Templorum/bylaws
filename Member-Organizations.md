@@ -15,9 +15,9 @@ Ab Initio
 Organized temples/organizations recognized as fully following the Roman Religion but have not
 yet entered an agreement of Full Communion.
 
-* [Nova Roma](http://www.novaroma.org/nr/Category:Religio_Romana_(Nova_Roma))
-* [Nova Roma](http://nova-roma.org/)
-* [Roman Republic](http://romanrepublic.org/bibliotheca/wiki/sacerdotes.html)
+* [Roman Republic](http://romanrepublic.org/roma/bibliotheca/sacerdotes/)
+* [Nova Roma (novaroma.org)](http://www.novaroma.org/nr/Category:Religio_Romana_(Nova_Roma))
+* [Nova Roma (nova-roma.org)](http://nova-roma.org/)
 * [TEMPLVM](http://www.templvm.org)
 * [Res Publica Romana](http://www.respublica-romana.com/home)
 * [Roma Aeterna](https://www.facebook.com/groups/RomaAeterna)
