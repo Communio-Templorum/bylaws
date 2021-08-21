@@ -16,8 +16,7 @@ Organized temples/organizations recognized as fully following the Roman Religion
 yet entered an agreement of Full Communion.
 
 * [Roman Republic](http://romanrepublic.org/roma/bibliotheca/sacerdotes/)
-* [Nova Roma (novaroma.org)](http://www.novaroma.org/nr/Category:Religio_Romana_(Nova_Roma))
-* [Nova Roma (nova-roma.org)](http://nova-roma.org/)
+* [Nova Roma](http://www.novaroma.org/nr/Category:Religio_Romana_(Nova_Roma))
 * [TEMPLVM](http://www.templvm.org)
 * [Res Publica Romana](http://www.respublica-romana.com/home)
 * [Roma Aeterna](https://www.facebook.com/groups/RomaAeterna)
