@@ -20,6 +20,7 @@ yet entered an agreement of Full Communion.
 * [TEMPLVM](http://www.templvm.org)
 * [Res Publica Romana](http://www.respublica-romana.com/home)
 * [Roma Aeterna](https://www.facebook.com/groups/RomaAeterna)
+* [Pietas International] (https://tradizioneromana.org/english-version.html)
 
 :warning: The Communio Templorum is not interested in interfering with the internal politics of any group.
 	The Communio Templorum seeks only to discuss and resolve religious differences in order to strengthen
