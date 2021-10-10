@@ -47,7 +47,7 @@ Minister
 --------
 :information_source: Attendant, Servant, Agent
 
-:warning: or perhaps +Magister+, teacher
+:warning: or perhaps _Magister_, teacher
 
 Every town, village, and community needs at least one Minister with deference to the broad Religio
 Romana. Their responsibilities shall include:
