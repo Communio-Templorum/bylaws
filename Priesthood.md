@@ -42,12 +42,18 @@ Pontiff
 Sacerdos
 --------
 :information_source: Priests
-  
+
+Magister
+--------
+
+ℹ️ Teacher
+
+Like a Minister below, providing services for a community, but with the additional training
+necessary to provide licensed counseling services.
+
 Minister
 --------
 :information_source: Attendant, Servant, Agent
-
-:warning: or perhaps _Magister_, teacher
 
 Every town, village, and community needs at least one Minister with deference to the broad Religio
 Romana. Their responsibilities shall include:
