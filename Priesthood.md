@@ -28,20 +28,25 @@ Flamen
 ------
 :information_source: Cardinal Priests
 
-Each recognized Ab Urbe Condita Cult shall have one Flamen, elected by that Cult's Pontiffs, Board of
+Each recognized Ab Urbe Condita Cult shall have one Flamen, elected by that Cult's Pontifices, Board of
 Directors, or however else they seem fit, and confirmed by the Pontifex Maximus.
 
 Each Flamen is charged with the responsibility of overseeing the rites and rituals of their Cult. The
 Flamen must work with the Pontiffs and Sacerdos in establishing and carrying out the rites and rituals
-and promulgating such to all temples, priests, practitioners, and followers of their Cult.
+and promulgating such to all temples, priests, practitioners, and followers of their Cult/Order.
 
-Pontiff
+Pontifex
 -------
-:information_source: Senior Priests
+:information_source: Senior Priest
+
+Each Order/Cult led by a Flamen shall be given the responsibility and obligation to ordain Pontifices
+from their ranks of Sacerdotes.
 
 Sacerdos
 --------
-:information_source: Priests
+:information_source: Priest
+
+Each Order/Cult led by a Flamen shall be given the responsibility and obligation to ordain Sacerdotes.
 
 Magister
 --------
