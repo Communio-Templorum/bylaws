@@ -8,3 +8,4 @@
 * [Declaration of Principles of the Cultus Deorum Romanorum](http://romanrepublic.org/bibliotheca/wiki/cd_declaration.html)
 * [Glossary of ancient Roman religion](https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion)
 * [Life Cycle of a Public Charity (IRS)](https://www.irs.gov/charities-non-profits/charitable-organizations/life-cycle-of-a-public-charity)
+* [Tax Exempt Organization Workshop (IRS)](https://www.stayexempt.irs.gov/home/resource-library/virtual-small-mid-size-tax-exempt-organization-workshop)
