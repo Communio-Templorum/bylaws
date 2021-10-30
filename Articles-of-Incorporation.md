@@ -34,27 +34,14 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 ## 3. Organization of the Corporation
 
 The business affairs of the Corporation shall be managed by its Board of Directors and
-Officers. The Corporation shall further be organized as a confederation of Orders and Curiae.
+Officers. The Corporation shall further be organized as a confederation of Cultic Priesthoods
+and the Ministerial Priesthood.
 
-## 4. Orders
+Priesthood shall not be denied or abridged by race, color, ethnicity, sex, gender, sexual
+orientation, gender identity, age, ancestry, national origin, nationality, citizenship, or
+disability status.
 
-The Priesthood shall be organized into Orders, each recognized by the Board of Directors and
-each head by a Flamen selected from their ranks.
-
-Each Order shall keep their own bylaws and determine the qualifications and duties for their
-ranks of Sacerdos, Pontifex, and Flamen.
-
-## 5. Curiae
-
-The Active Members of the Corporation shall organize themselves into Curiae. Each Curia shall
-be led by an ordained Minister or Magister.
-
-To qualify for ordination as a Minister, an Active Member must complete the appropriate
-program of study to earn a Theologiae Baccalaureate degree from a college or university
-accredited by the Corporation. To qualify for ordination as a Magister, a Minister must
-receive the licensure necessary to work as a professional counselor in their locality.
-
-## 6. Board of Directors
+## 4. Board of Directors
 
 1. The business affairs of the Corporation shall be managed by its Board of Directors. The
 	Board of Directors shall have control of and be responsible for the management of the affairs
@@ -72,24 +59,21 @@ receive the licensure necessary to work as a professional counselor in their loc
 		Maximus shall serve as Chair of the Board and the Directors shall elect another Director
 		to serve as Chair in their absence.
 
-	* Three persons, elected by the Flamines, to serve a term of six years, the elections of
+	* Three persons, elected by the Collegium Flaminum, to serve a term of six years, the elections of
 		which shall be staggered to one every two years. The method of elections and how to fill
 		any vacancy shall be outlined in the bylaws of the Collegium Flaminum.
 
 	* Three persons, elected by the Ministers and Magisters, to serve a term of three years,
 		the elections of which shall be staggered to one each year with the results certified by
 		the Pontifex Maximus. The method of elections and how to fill any vacancy shall be
-		outlined in the bylaws of the Collegium Ministrorum.
+		outlined in the bylaws of the Ministerial Priesthood.
 
 1. Regular meetings of the Board shall be held at least once within any 3-month span, at a
 	time and place designated by the Pontifex Maximus, or by a resolution of the Board of
 	Directors.
 
-	* Every Minister and Magister shall be allowed to attend such meetings and be given equal
-		opportunity to give comments.
-
 1. Special meetings may be called by the Pontifex Maximus, by a majority of the Board of
-	Directors, or upon petition of ten percent of the Collegium Ministrorum.
+	Directors, or upon petition of ten percent of the Ministerium.
 
 1. A majority of Directors must be present at any meeting to call a quorum.
 
@@ -101,6 +85,30 @@ receive the licensure necessary to work as a professional counselor in their loc
 	Minister in a reasonable time prior to the meeting as set in the Bylaws.
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
+
+## 5. Cultic Priesthood
+
+The Cultic Priesthood shall be organized into Orders, each recognized by the Board of Directors
+and each head by a Flamen selected from their ranks.
+
+Each Order shall keep their own bylaws and determine the qualifications and duties for their ranks 
+of Sacerdos, Pontifex, and Flamen.
+
+The Flamines shall gather themselves together from time to time as the Collegium Flaminum for the
+election of Board of Directors and other business as they see fit.
+
+## 6. Ministerial Priesthood
+
+The Active Members of the Corporation shall organize themselves into Curiae. Each Curia shall
+be led by an ordained Minister or Magister of the Ministerial Priesthood, the selection of such
+shall be determined by the Curia to best suit their needs.
+
+The voting members of each Curiae shall be composed of Patres Familias.
+
+To qualify for ordination as a Minister, an Active Member must complete the appropriate
+program of study to earn a Theologiae Baccalaureate degree from a college or university
+accredited by the Corporation. To qualify for ordination as a Magister, a Minister must
+receive the licensure necessary to work as a professional counselor in their locality.
 
 ## 7. Officers
 
@@ -131,30 +139,15 @@ method of election shall by outlined in the Bylaws.
 
 The Corporation will have members.
 
-Membership in the Corporation shall not be denied or abridged by race, color, ethnicity, sex,
-gender, sexual orientation, gender identity, age, ancestry, national origin, nationality,
-citizenship, or disability status.
+Membership in the Corporation and the Curiae shall not be denied or abridged by race, color,
+ethnicity, sex, gender, sexual orientation, gender identity, age, ancestry, national origin,
+nationality, citizenship, or disability status.
 
-No person can be denoted as a Member of the Corporation without their express permission.
+No person can be denoted as a Member of the Corporation or any Curiae without their express
+permission.
 
 The Corporation shall not direct or encourage Members to shun any individual person, whether they
 be a current or former Member of the Corporation or in any way unaffiliated with the Corporation.
-
-### Pater Familias
-
-* The title of "Pater Familias" may be conferred onto select Active Members. Qualifications and
-	requirements for such title shall be outlined in the Bylaws.
-
-* The title of "Pater Familias" cannot be denied to any individual on the basis of race, color,
-	ethnicity, sex, gender, sexual orientation, gender identity, ancestry, national origin,
-	nationality, citizenship, or disability status.
-
-* A majority of Patres Familiarum shall meet at least once each calendar year to elect from
-	amongst themselves their representative to the Board of Directors and to discuss other business
-	of the Corporation as they see fit.
-
-	* The Patres Familiarum may keep and record a set of bylaws applying to their organization
-		as they see fit.
 
 ### Non-voting Members
 
@@ -164,7 +157,16 @@ requirement to be considered as an Active Member of the Corporation shall be set
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
 
-## 9. Prohibited Activities
+## 9. Patres Familias
+
+The title of "Pater Familias" may be conferred onto select Active Members. Qualifications and
+requirements for such title shall be outlined in the Bylaws.
+
+The title of "Pater Familias" cannot be denied to any individual on the basis of race, color,
+ethnicity, sex, gender, sexual orientation, gender identity, ancestry, national origin,
+nationality, citizenship, or disability status.
+
+## 10. Prohibited Activities
 
 No part of the net earnings of the Corporation shall inure to the benefit of or be
 distributable to, its Members, Directors, Officers, or other private persons except that the
@@ -195,7 +197,7 @@ income tax under Section 501(c)(3) of the Internal Revenue Code of 1986 or (b) b
 contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code of
 1986.
 
-## 10. Distributions Upon Dissolution
+## 11. Distributions Upon Dissolution
 
 Upon the dissolution of the Corporation, the Board of Directors shall, after paying or making
 provision for the payment of all of the liabilities of the Corporation, dispose of all of the
@@ -210,7 +212,8 @@ located, exclusively for such purposes or to such organizations, such as the Cou
 determine, which are organized and operated exclusively for such purposes, or to such governments
 for such purposes.
 
-## 11. Amendments to the Articles of Incorporation
+## 12. Amendments to the Articles of Incorporation
 
 Amendments to these Articles of Incorporation shall only take effect upon agreement of
-three-fourths of the Board of Directors and a majority of the Patres Familiarum the Corporation.
+three-fourths of the Board of Directors, two-thirds of the Collegium Flaminum, and a majority of
+the Ministerial Priesthood.
