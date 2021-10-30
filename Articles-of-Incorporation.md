@@ -29,38 +29,30 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 1. The Corporation is further tasked with protecting the Relgio Romana and its Temples in
 	order to promote and safeguard the Pax Deorum.
 
-* [ ] Outline basic beliefs of the Corporation
+* [ ] Outline basic beliefs of the Corporation, Cultus Deorum, and Religio Romana
 
 ## 3. Organization of the Corporation
 
-The business affairs of the Corporation shall be managed by its Collegium Pontificum
-(Collegium of Pontifices, Board of Directors) and Officers. The Corporation shall further be
-organized as a confederation of Cults and Curiae. The Corporation shall have Members.
+The business affairs of the Corporation shall be managed by its Board of Directors and
+Officers. The Corporation shall further be organized as a confederation of Orders and Curiae.
 
-The Priesthood, except for Ministers, shall be organized into Cults, each recognized by the
-Collegium Pontificum and each head by a Flamen selected from their ranks.
+## 4. Orders
 
-The Active Members of the Corporation shall organize themselves into Curiae based on proximal
-location and similar interests. Each Curiae shall be led by an ordained Minister.
+The Priesthood shall be organized into Orders, each recognized by the Board of Directors and
+each head by a Flamen selected from their ranks.
 
-### 3.1. Cults
+Each Order shall keep their own bylaws and determine the qualifications and duties for their
+ranks of Sacerdos, Pontifex, and Flamen.
 
-Each Cult shall keep their own bylaws.
+## 5. Curiae
 
-### 3.2. Curiae
+The Active Members of the Corporation shall organize themselves into Curiae. Each Curia shall
+be led by an ordained Minister or Magister.
 
-The lowest level of organization shall be the Curiae. Each Curia shall be a local group of
-Active Members led by an ordained Minister.
-
-## 5. Incorporators
-
-The Incorporators of the Corporation shall never be gifted a residence, or part thereof, at
-the expense of the Corporation, nor provided such as compensation for services rendered. The
-Corporation further shall not accept any gifts of real property from an Incorporator that
-serves or will serve as the primary or a secondary residence of any Incorporator, nor pay for
-any part thereof. An exception to this paragraph can only be made by a majority of Directors
-when there are at least seven Directors, not including the Incorporators, and no Incorporator
-may participate in this vote.
+To qualify for ordination as a Minister, an Active Member must complete the appropriate
+program of study to earn a Theologiae Baccalaureate degree from a college or university
+accredited by the Corporation. To qualify for ordination as a Magister, a Minister must
+receive the licensure necessary to work as a professional counselor in their locality.
 
 ## 6. Board of Directors
 
@@ -125,12 +117,6 @@ duties and responsibilities:
 * Maintaining accurate bookkeeping records according to generally accepted accounting
 	principles.
 
-### Pontifex Maximus
-
-### Pontificēs Secundī
-
-### Flamen
-
 ### Other Officers
 
 The Board of Directors shall have authority to elect other Officers of the Corporation as
@@ -190,6 +176,14 @@ No substantial part of the activities of the Corporation shall be the carrying o
 propaganda or otherwise attempting to influence legislation, and the Corporation shall not
 participate in or intervene in (including the publishing or distribution of statements) any
 political campaign on behalf of or in opposition to any candidate for public office.
+
+The Incorporators of the Corporation shall never be gifted a residence, or part thereof, at
+the expense of the Corporation, nor provided such as compensation for services rendered. The
+Corporation further shall not accept any gifts of real property from an Incorporator that
+serves or will serve as the primary or a secondary residence of any Incorporator, nor pay for
+any part thereof. An exception to this paragraph can only be made by a majority of Directors
+when there are at least seven Directors, not including the Incorporators, and no Incorporator
+may participate in this vote.
 
 Notwithstanding any other provisions of these Articles, the Corporation shall not carry on
 any other activities not permitted to be carried on (a) by a corporation exempt from federal
