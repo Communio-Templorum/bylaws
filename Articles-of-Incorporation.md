@@ -31,9 +31,26 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 
 * [ ] Outline basic beliefs of the Corporation
 
-## 3. Registered Agent
+## 3. Organization of the Corporation
 
-## 4. Principal Office
+The business affairs of the Corporation shall be managed by its Collegium Pontificum
+(Collegium of Pontifices, Board of Directors) and Officers. The Corporation shall further be
+organized as a confederation of Cults and Curiae. The Corporation shall have Members.
+
+The Priesthood, except for Ministers, shall be organized into Cults, each recognized by the
+Collegium Pontificum and each head by a Flamen selected from their ranks.
+
+The Active Members of the Corporation shall organize themselves into Curiae based on proximal
+location and similar interests. Each Curiae shall be led by an ordained Minister.
+
+### 3.1. Cults
+
+Each Cult shall keep their own bylaws.
+
+### 3.2. Curiae
+
+The lowest level of organization shall be the Curiae. Each Curia shall be a local group of
+Active Members led by an ordained Minister.
 
 ## 5. Incorporators
 
@@ -42,14 +59,16 @@ the expense of the Corporation, nor provided such as compensation for services r
 Corporation further shall not accept any gifts of real property from an Incorporator that
 serves or will serve as the primary or a secondary residence of any Incorporator, nor pay for
 any part thereof. An exception to this paragraph can only be made by a majority of Directors
-and Officers when there are at least seven Directors, not including the Incorporators, and no
-Incorporator may participate in this vote.
+when there are at least seven Directors, not including the Incorporators, and no Incorporator
+may participate in this vote.
 
 ## 6. Board of Directors
 
 1. The business affairs of the Corporation shall be managed by its Board of Directors. The
 	Board of Directors shall have control of and be responsible for the management of the affairs
 	and property of the Corporation.
+
+1. Only Active Members of the Corporation may serve on the Board of Directors.
 
 1. The Board of Directors shall be composed of the following individuals:
 
@@ -197,5 +216,3 @@ for such purposes.
 
 Amendments to these Articles of Incorporation shall only take effect upon agreement of
 three-fourths of the Board of Directors and a majority of the Patres Familiarum the Corporation.
-The only exceptions shall be in changing the Registered Agent or Principal Office, which shall
-only require an agreement of a majority of the Board of Directors.
