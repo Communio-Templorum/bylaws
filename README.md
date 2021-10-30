@@ -7,3 +7,4 @@
 * [Guidebook for Boards of Directors of North Carolina Nonprofit Corporations](https://users.wfu.edu/palmitar/Books/Guidebook-2ed.pdf)
 * [Declaration of Principles of the Cultus Deorum Romanorum](http://romanrepublic.org/bibliotheca/wiki/cd_declaration.html)
 * [Glossary of ancient Roman religion](https://en.wikipedia.org/wiki/Glossary_of_ancient_Roman_religion)
+* [Life Cycle of a Public Charity (IRS)](https://www.irs.gov/charities-non-profits/charitable-organizations/life-cycle-of-a-public-charity)
