@@ -68,31 +68,36 @@ receive the licensure necessary to work as a professional counselor in their loc
 		state of mind.
 
 	* The Pontifex Maximus, in a lifetime position as long as they are in good health, sound
-		state of mind, and continue to fulfill their duties as Pontifex Maximus.
+		state of mind, and continue to fulfill their duties as Pontifex Maximus. The Pontifex
+		Maximus shall serve as Chair of the Board and the Directors shall elect another Director
+		to serve as Chair in their absence.
 
-	* Three persons, elected by the Flamen, to serve a term of six years, and the elections of
-		which shall be staggered to one every two years. The methd of elections and how to fill
+	* Three persons, elected by the Flamines, to serve a term of six years, the elections of
+		which shall be staggered to one every two years. The method of elections and how to fill
 		any vacancy shall be outlined in the bylaws of the Collegium Flaminum.
 
-	* Three persons, elected by the Minister and Magisters, to serve a term of three years,
+	* Three persons, elected by the Ministers and Magisters, to serve a term of three years,
 		the elections of which shall be staggered to one each year with the results certified by
 		the Pontifex Maximus. The method of elections and how to fill any vacancy shall be
 		outlined in the bylaws of the Collegium Ministrorum.
 
 1. Regular meetings of the Board shall be held at least once within any 3-month span, at a
-	time and place designated by the Chair, or by a resolution of the Board of Directors.
-	
+	time and place designated by the Pontifex Maximus, or by a resolution of the Board of
+	Directors.
+
 	* Every Minister and Magister shall be allowed to attend such meetings and be given equal
 		opportunity to give comments.
 
 1. Special meetings may be called by the Pontifex Maximus, by a majority of the Board of
 	Directors, or upon petition of ten percent of the Collegium Ministrorum.
 
+1. A majority of Directors must be present at any meeting to call a quorum.
+
 1. The Board of Directors shall be tasked with keeping and maintaining the Bylaws of the
 	Corporation. The Bylaws may be amended at any meeting of the Board of Directors by a
 	majority vote of the Directors present.
 
-1. Written notice of all meetings shall be given to each Director, Flamen, Magister, and
+1. Written notice of all meetings shall be given to each Director, Flamen, Pontifex, Magister, and
 	Minister in a reasonable time prior to the meeting as set in the Bylaws.
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
