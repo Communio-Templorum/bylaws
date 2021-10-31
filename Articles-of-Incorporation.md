@@ -34,12 +34,12 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 ## 3. Organization of the Corporation
 
 The business affairs of the Corporation shall be managed by its Board of Directors and
-Officers. The Corporation shall further be organized as a confederation of Cultic Priesthoods
-and the Ministerial Priesthood.
+Officers. The Corporation shall further be organized as a confederation of Cultic Priesthoods,
+the Ministerial Priesthood, and the Patres Familias.
 
-Priesthood shall not be denied or abridged by race, color, ethnicity, sex, gender, sexual
-orientation, gender identity, age, ancestry, national origin, nationality, citizenship, or
-disability status.
+The appointment to any position or to Membership of the Corporation and of the Curiae shall not
+be denied or abridged by race, color, ethnicity, sex, gender, sexual orientation, gender
+identity, age, ancestry, national origin, nationality, citizenship, or disability status.
 
 ## 4. Board of Directors
 
@@ -57,16 +57,21 @@ disability status.
 	* The Pontifex Maximus, in a lifetime position as long as they are in good health, sound
 		state of mind, and continue to fulfill their duties as Pontifex Maximus. The Pontifex
 		Maximus shall serve as Chair of the Board and the Directors shall elect another Director
-		to serve as Chair in their absence.
+		to serve as Chair in his absence.
 
-	* Three persons, elected by the Collegium Flaminum, to serve a term of six years, the elections of
-		which shall be staggered to one every two years. The method of elections and how to fill
-		any vacancy shall be outlined in the bylaws of the Collegium Flaminum.
+	* Four persons, elected by the Collegium Flaminum, to serve a term of eight years, the
+		elections of which shall be staggered to one every other year. The method of elections
+		and how to fill any vacancy shall be outlined in the bylaws of the Collegium Flaminum.
 
-	* Three persons, elected by the Ministers and Magisters, to serve a term of three years,
-		the elections of which shall be staggered to one each year with the results certified by
-		the Pontifex Maximus. The method of elections and how to fill any vacancy shall be
-		outlined in the bylaws of the Ministerial Priesthood.
+	* Three persons, elected by the Ministers and Magisters, to serve a term of six years,
+		the elections of which shall be staggered to one every other year with the results
+		certified by the Pontifex Maximus. The method of elections and how to fill any vacancy
+		shall be outlined in the bylaws of the Ministerial Priesthood.
+		
+	* Three persons, elected by the Patres Familias, to serve a term of three years, the
+		elections of which shall be staggered to one every year with the results certified by the
+		Pontifex Maximus. The method of elections and how to fill any vacancy shall be outline in
+		the Bylaws of the Corporation.
 
 1. Regular meetings of the Board shall be held at least once within any 3-month span, at a
 	time and place designated by the Pontifex Maximus, or by a resolution of the Board of
@@ -75,7 +80,7 @@ disability status.
 1. Special meetings may be called by the Pontifex Maximus, by a majority of the Board of
 	Directors, or upon petition of ten percent of the Ministerium.
 
-1. A majority of Directors must be present at any meeting to call a quorum.
+1. A majority of Directors, but no less than five, must be present at any meeting to call a quorum.
 
 1. The Board of Directors shall be tasked with keeping and maintaining the Bylaws of the
 	Corporation. The Bylaws may be amended at any meeting of the Board of Directors by a
@@ -112,10 +117,6 @@ receive the licensure necessary to work as a professional counselor in their loc
 
 ## 7. Officers
 
-Appointment of the Corporation and the Curiae shall not be based upon by race, color, ethnicity,
-sex, gender, sexual orientation, gender identity, age, ancestry, national origin, nationality,
-citizenship, or disability status.
-
 ### Rex Sacrorum
 
 The Board of Directors shall appoint by simple majority one Active Member to the position of Rex
@@ -151,9 +152,11 @@ method of selection shall by outlined in the Bylaws.
 
 The Corporation will have members.
 
-Membership in the Corporation and the Curiae shall not be denied or abridged by race, color,
-ethnicity, sex, gender, sexual orientation, gender identity, age, ancestry, national origin,
-nationality, citizenship, or disability status.
+Any person may choose to join the Corporation as a non-voting member.
+
+All Members of the Curiae shall be recognized as non-voting members of the Corporation.
+Other qualifications and
+requirements to be considered as an Active Member of the Corporation shall be set in the Bylaws.
 
 No person can be denoted as a Member of the Corporation or any Curiae without their express
 permission.
@@ -161,22 +164,14 @@ permission.
 The Corporation shall not direct or encourage Members to shun any individual person, whether they
 be a current or former Member of the Corporation or in any way unaffiliated with the Corporation.
 
-### Non-voting Members
-
-Any person may choose to join the Corporation as a non-voting member. Qualifications and
-requirement to be considered as an Active Member of the Corporation shall be set in the Bylaws.
-
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
 
 ## 9. Patres Familias
 
-The title of "Pater Familias" may be conferred onto select Active Members. Qualifications and
-requirements for such title shall be outlined in the Bylaws.
+The title of "Pater Familias" may be conferred onto select Active Members.
 
-The title of "Pater Familias" cannot be denied to any individual on the basis of race, color,
-ethnicity, sex, gender, sexual orientation, gender identity, ancestry, national origin,
-nationality, citizenship, or disability status.
+Qualifications and requirements for such title shall be outlined in the Bylaws.
 
 ## 10. Prohibited Activities
 
