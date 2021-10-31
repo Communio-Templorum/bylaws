@@ -112,6 +112,18 @@ receive the licensure necessary to work as a professional counselor in their loc
 
 ## 7. Officers
 
+Appointment of the Corporation and the Curiae shall not be based upon by race, color, ethnicity,
+sex, gender, sexual orientation, gender identity, age, ancestry, national origin, nationality,
+citizenship, or disability status.
+
+### Rex Sacrorum
+
+The Board of Directors shall appoint by simple majority one Active Member to the position of Rex
+Sacrorum to act as President of the Corporation for a term lasting no longer than four years. The
+Rex Sacrorum shall meet regularly with the other Officers to ensure the proper continuous
+functioning of the Corporation. The other duties and qualifications for Rex Sacrorum shall be
+outlined in the Bylaws of the Corporation.
+
 ### Treasurer
 
 The Board of Directors shall appoint by simple majority one Active Member to act as Treasurer
@@ -131,9 +143,9 @@ duties and responsibilities:
 
 ### Other Officers
 
-The Board of Directors shall have authority to elect other Officers of the Corporation as
+The Board of Directors shall have authority to establish other Offices of the Corporation as
 needed. The Officers and their duties, responsibilities, qualifications, requirements, and
-method of election shall by outlined in the Bylaws.
+method of selection shall by outlined in the Bylaws.
 
 ## 8. Members
 
