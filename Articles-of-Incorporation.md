@@ -169,9 +169,16 @@ be a current or former Member of the Corporation or in any way unaffiliated with
 
 ## 9. Patres Familias
 
-The title of "Pater Familias" may be conferred onto select Active Members.
+The title of "Pater Familias" may be conferred onto select Active Members to act as head of their
+household, regardless of sex, gender, or gender identity.
 
-Qualifications and requirements for such title shall be outlined in the Bylaws.
+Responsibilities include:
+
+* Performing the religious rites for the household
+* Teaching the children of the house in the ways of the Religio Romana
+* Honoring the Lar Familias, Penates, and Vesta
+
+Other qualifications and responsibilities for such title shall be outlined in the Bylaws.
 
 ## 10. Prohibited Activities
 
