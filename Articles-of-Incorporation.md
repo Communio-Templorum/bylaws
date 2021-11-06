@@ -56,29 +56,29 @@ identity, age, ancestry, national origin, nationality, citizenship, or disabilit
 
 	* The Pontifex Maximus, in a lifetime position as long as they are in good health, sound
 		state of mind, and continue to fulfill their duties as Pontifex Maximus. The Pontifex
-		Maximus shall serve as Chair of the Board and the Directors shall elect another Director
-		to serve as Chair in his absence.
+		Maximus shall serve as Chair of the Board, and the Directors shall elect another Director
+		as Vice Chair to serve as chair in his absence.
 
-	* Four persons, elected by the Collegium Flaminum, to serve a term of eight years, the
-		elections of which shall be staggered to one every other year. The method of elections
+	* An even number of persons, elected by the Collegium Flaminum, each to serve a term of eight
+		years, the elections of which shall be staggered to every other year. The method of elections
 		and how to fill any vacancy shall be outlined in the bylaws of the Collegium Flaminum.
 
-	* Three persons, elected by the Ministers and Magisters, to serve a term of six years,
-		the elections of which shall be staggered to one every other year with the results
-		certified by the Pontifex Maximus. The method of elections and how to fill any vacancy
-		shall be outlined in the bylaws of the Ministerial Priesthood.
+	* An odd number of persons, elected by the Ministers and Magisters, each to serve a term of six
+		years, the elections of which shall be staggered to one every other year with the results
+		certified by the Pontifex Maximus. The method of elections and how to fill any vacancy shall
+		be outlined in the bylaws of the Ministerial Priesthood.
 		
-	* Three persons, elected by the Patres Familias, to serve a term of three years, the
-		elections of which shall be staggered to one every year with the results certified by the
-		Pontifex Maximus. The method of elections and how to fill any vacancy shall be outline in
-		the Bylaws of the Corporation.
+	* An odd number of persons, elected by the Patres Familias, each to serve a term of three years
+		the elections of which shall be staggered to one every year with the results certified by the
+		Pontifex Maximus. The method of elections and how to fill any vacancy shall be outline in the
+		Bylaws of the Corporation.
 
 1. Regular meetings of the Board shall be held at least once within any 3-month span, at a
 	time and place designated by the Pontifex Maximus, or by a resolution of the Board of
 	Directors.
 
 1. Special meetings may be called by the Pontifex Maximus, by a majority of the Board of
-	Directors, or upon petition of ten percent of the Ministerium.
+	Directors, or upon petition of ten percent of the Ministerial Priesthood.
 
 1. A majority of Directors, but no less than five, must be present at any meeting to call a quorum.
 
@@ -104,18 +104,31 @@ election of Board of Directors and other business as they see fit.
 
 ## 6. Ministerial Priesthood
 
-The Active Members of the Corporation shall organize themselves into Curiae. Each Curia shall
-be led by an ordained Minister or Magister of the Ministerial Priesthood, the selection of such
-shall be determined by the Curia to best suit their needs.
+The Active Members of the Corporation shall organize themselves into Curiae. Each Curia shall be
+led by an ordained Minister or Magister of the Ministerial Priesthood, the selection of such shall
+be determined by the Curia to best suit their needs.
 
 The voting members of each Curiae shall be composed of Patres Familias.
 
-To qualify for ordination as a Minister, an Active Member must complete the appropriate
-program of study to earn a Theologiae Baccalaureate degree from a college or university
-accredited by the Corporation. To qualify for ordination as a Magister, a Minister must
-receive the licensure necessary to work as a professional counselor in their locality.
+To qualify for ordination as a Minister, an Active Member must complete the appropriate program of
+study to earn a Theologiae Baccalaureate degree from a college or university accredited by the
+Corporation. To qualify for ordination as a Magister, a Minister must receive the licensure
+necessary to work as a professional counselor in their locality.
 
-## 7. Officers
+## 7. Patres Familias
+
+The title of "Pater Familias" may be conferred onto select Active Members to act as head of their
+household, regardless of sex, gender, or gender identity.
+
+Responsibilities include:
+
+* Performing the religious rites for the household
+* Teaching the children of the house in the ways of the Religio Romana
+* Honoring the Lar Familias, Penates, and Vesta
+
+Other qualifications and responsibilities for such title shall be outlined in the Bylaws.
+
+## 8. Officers
 
 ### Rex Sacrorum
 
@@ -148,7 +161,7 @@ The Board of Directors shall have authority to establish other Offices of the Co
 needed. The Officers and their duties, responsibilities, qualifications, requirements, and
 method of selection shall by outlined in the Bylaws.
 
-## 8. Members
+## 9. Members
 
 The Corporation will have members.
 
@@ -166,19 +179,6 @@ be a current or former Member of the Corporation or in any way unaffiliated with
 
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
-
-## 9. Patres Familias
-
-The title of "Pater Familias" may be conferred onto select Active Members to act as head of their
-household, regardless of sex, gender, or gender identity.
-
-Responsibilities include:
-
-* Performing the religious rites for the household
-* Teaching the children of the house in the ways of the Religio Romana
-* Honoring the Lar Familias, Penates, and Vesta
-
-Other qualifications and responsibilities for such title shall be outlined in the Bylaws.
 
 ## 10. Prohibited Activities
 
