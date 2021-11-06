@@ -108,11 +108,9 @@ The Active Members of the Corporation shall organize themselves into Curiae. Eac
 led by an ordained Minister or Magister of the Ministerial Priesthood, the selection of such shall
 be determined by the Curia to best suit their needs.
 
-The voting members of each Curiae shall be composed of Patres Familias.
-
 To qualify for ordination as a Minister, an Active Member must complete the appropriate program of
-study to earn a Theologiae Baccalaureate degree from a college or university accredited by the
-Corporation. To qualify for ordination as a Magister, a Minister must receive the licensure
+study to earn a Theologiae Baccalaureate degree from a seminary, college, or university accredited
+by the Corporation. To qualify for ordination as a Magister, a Minister must receive the licensure
 necessary to work as a professional counselor in their locality.
 
 ## 7. Patres Familias
