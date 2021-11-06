@@ -64,14 +64,14 @@ identity, age, ancestry, national origin, nationality, citizenship, or disabilit
 		and how to fill any vacancy shall be outlined in the bylaws of the Collegium Flaminum.
 
 	* An odd number of persons, elected by the Ministers and Magisters, each to serve a term of six
-		years, the elections of which shall be staggered to one every other year with the results
-		certified by the Pontifex Maximus. The method of elections and how to fill any vacancy shall
-		be outlined in the bylaws of the Ministerial Priesthood.
+		years, the elections of which shall be staggered to every other year with the results certified
+		by the Pontifex Maximus. The method of elections and how to fill any vacancy shall be outlined
+		in the bylaws of the Ministerial Priesthood.
 		
-	* An odd number of persons, elected by the Patres Familias, each to serve a term of three years
-		the elections of which shall be staggered to one every year with the results certified by the
-		Pontifex Maximus. The method of elections and how to fill any vacancy shall be outline in the
-		Bylaws of the Corporation.
+	* An odd number of persons, elected by the Patres Familias, each to serve a term of three years,
+		the elections of which shall be staggered to occur once every year with the results certified
+		by the Pontifex Maximus. The method of elections and how to fill any vacancy shall be outline
+		in the Bylaws of the Corporation.
 
 1. Regular meetings of the Board shall be held at least once within any 3-month span, at a
 	time and place designated by the Pontifex Maximus, or by a resolution of the Board of
