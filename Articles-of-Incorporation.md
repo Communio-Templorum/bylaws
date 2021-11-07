@@ -172,8 +172,9 @@ requirements to be considered as an Active Member of the Corporation shall be se
 No person can be denoted as a Member of the Corporation or any Curiae without their express
 permission.
 
-The Corporation shall not direct or encourage Members to shun any individual person, whether they
-be a current or former Member of the Corporation or in any way unaffiliated with the Corporation.
+The Corporation, any Priest of any recognized Priesthood, and the Curiae shall not direct or
+encourage Members to shun any individual person, whether they be a current or former Member of
+the Corporation, a Priesthood, or a Curia or in any way unaffiliated with the Corporation.
 
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
