@@ -35,7 +35,7 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 
 The business affairs of the Corporation shall be managed by its Board of Directors and
 Officers. The Corporation shall further be organized as a confederation of Cultic Priesthoods,
-the Ministerial Priesthood, and the Patres Familias.
+Curiae led by the Ministerial Priesthood, and the Patres Familias.
 
 The appointment to any position or to Membership of the Corporation and of the Curiae shall not
 be denied or abridged by race, color, ethnicity, sex, gender, sexual orientation, gender
@@ -93,25 +93,41 @@ identity, age, ancestry, national origin, nationality, citizenship, or disabilit
 
 ## 5. Cultic Priesthood
 
-The Cultic Priesthood shall be organized into Orders, each recognized by the Board of Directors
-and each head by a Flamen selected from their ranks.
+The Cultic Priesthood shall be organized into Orders. Each Order is an independent organization
+dedicated to the Religio Romana and which have entered into an agreement of Full Communion with
+this Corporation as ratified by the Board of Directors.
 
-Each Order shall keep their own bylaws and determine the qualifications and duties for their ranks 
-of Sacerdos, Pontifex, and Flamen.
+Each Order shall be head by a Flamen selected from their amongst their ranks. Each Order should
+have criteria to award the ranks of Sacerdos, Pontifex, and Flamen based upon services performed
+and education obtained. Each Order shall keep their own bylaws.
+
+All Members of the Order and of their local temples shall be recognized as Members of this
+Corporation.
 
 The Flamines shall gather themselves together from time to time as the Collegium Flaminum for the
 election of Board of Directors and other business as they see fit.
 
-## 6. Ministerial Priesthood
+## 6. Curiae and the Ministerial Priesthood
 
-The Active Members of the Corporation shall organize themselves into Curiae. Each Curia shall be
-led by an ordained Minister or Magister of the Ministerial Priesthood, the selection of such shall
-be determined by the Curia to best suit their needs.
+1. The Ministerial Priesthood shall consist of Ministers and Magisters, priests who have dedicated
+	themselves in pantheonic service to their communities.
 
-To qualify for ordination as a Minister, an Active Member must complete the appropriate program of
-study to earn a Theologiae Baccalaureate degree from a seminary, college, or university accredited
-by the Corporation. To qualify for ordination as a Magister, a Minister must receive the licensure
-necessary to work as a professional counselor in their locality.
+1. To qualify for ordination as a Minister, an Active Member must complete the appropriate program
+	of study to earn a Theologiae Baccalaureate degree from a seminary, college, or university
+	accredited by the Corporation. To qualify for ordination as a Magister, a Minister must receive
+	the licensure necessary to work as a professional counselor in their locality.
+
+1. The Corporation shall venture to create or recognize local Curiae dedicated to the worship of
+	the whole pantheon and in service to their local community. Each Curia shall be led by an
+	ordained Minister or Magister of the Ministerial Priesthood, the selection of such shall be
+	determined by the Curia to best suit their needs.
+
+1. When a Curia is without the leadership of a Minister or Magister, they may continue to hold the
+	following religious services:
+	1. the school services for young children regularly held during the times of service,
+	1. the liturgy of silence, and
+	1. a pantheonic worship lead by a Pater Familias, selected from amongst those of the Curia,
+		similar in style to their private Religio Domestica.
 
 ## 7. Patres Familias
 
@@ -161,11 +177,10 @@ method of selection shall by outlined in the Bylaws.
 
 ## 9. Members
 
-The Corporation will have members.
+The Corporation will have Members.
 
-Any person may choose to join the Corporation as a non-voting member.
+Members are encouraged to join a local Curia or a temple of an Order of a Cultic Priesthood.
 
-All Members of the Curiae shall be recognized as non-voting members of the Corporation.
 Other qualifications and
 requirements to be considered as an Active Member of the Corporation shall be set in the Bylaws.
 
