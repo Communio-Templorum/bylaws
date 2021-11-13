@@ -43,9 +43,8 @@ identity, age, ancestry, national origin, nationality, citizenship, or disabilit
 
 ## 4. Board of Directors
 
-1. The business affairs of the Corporation shall be managed by its Board of Directors. The
-	Board of Directors shall have control of and be responsible for the management of the affairs
-	and property of the Corporation.
+1. The Board of Directors shall have control of and be responsible for the management of the
+	affairs and property of the Corporation.
 
 1. Only Active Members of the Corporation may serve on the Board of Directors.
 
@@ -58,6 +57,10 @@ identity, age, ancestry, national origin, nationality, citizenship, or disabilit
 		state of mind, and continue to fulfill their duties as Pontifex Maximus. The Pontifex
 		Maximus shall serve as Chair of the Board, and the Directors shall elect another Director
 		as Vice Chair to serve as chair in his absence.
+			* The Pontifex Maximus shall be an ordained Pontiff or Flamen of a Cultic Priesthood or an
+				ordained Minister or Magister of the Ministerial Priesthood, and shall have held such
+				position for at least ten years before being elected Pontifex Maximus.
+			* The Pontifex Maximus shall be elected by the Board of Directors.
 
 	* An even number of persons, elected by the Collegium Flaminum, each to serve a term of eight
 		years, the elections of which shall be staggered to every other year. The method of elections
@@ -70,15 +73,16 @@ identity, age, ancestry, national origin, nationality, citizenship, or disabilit
 		
 	* An odd number of persons, elected by the Patres Familias, each to serve a term of three years,
 		the elections of which shall be staggered to occur once every year with the results certified
-		by the Pontifex Maximus. The method of elections and how to fill any vacancy shall be outline
+		by the Pontifex Maximus. The method of elections and how to fill any vacancy shall be outlined
 		in the Bylaws of the Corporation.
 
 1. Regular meetings of the Board shall be held at least once within any 3-month span, at a
 	time and place designated by the Pontifex Maximus, or by a resolution of the Board of
 	Directors.
 
-1. Special meetings may be called by the Pontifex Maximus, by a majority of the Board of
-	Directors, or upon petition of ten percent of the Ministerial Priesthood.
+1. Special meetings may be called by the Pontifex Maximus, by a majority of the Board of Directors
+	upon petition of a majority of the Collegium Flaminum, or upon petition of ten percent of the
+	Ministerial Priesthood.
 
 1. A majority of Directors, but no less than five, must be present at any meeting to call a quorum.
 
