@@ -34,12 +34,13 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 ## 3. Organization of the Corporation
 
 The business affairs of the Corporation shall be managed by its Board of Directors and
-Officers. The Corporation shall further be organized as a confederation of Cultic Priesthoods,
-Curiae led by the Ministerial Priesthood, and the Patres Familias.
+Officers. The Corporation will have Members and shall be organized as a confederation Orders of
+the Cultic Priesthood, Curiae led by the Ministerial Priesthood, and the Patres Familias.
 
 The appointment to any position or to Membership of the Corporation and of the Curiae shall not
 be denied or abridged by race, color, ethnicity, sex, gender, sexual orientation, gender
-identity, age, ancestry, national origin, nationality, citizenship, or disability status.
+identity, ancestry, national origin, nationality, citizenship, or disability status, and cannot
+be denied to anyone eighteen years of age or older on account of age.
 
 ## 4. Board of Directors
 
@@ -61,6 +62,8 @@ identity, age, ancestry, national origin, nationality, citizenship, or disabilit
 				ordained Minister or Magister of the Ministerial Priesthood, and shall have held such
 				position for at least ten years before being elected Pontifex Maximus.
 			* The Pontifex Maximus shall be elected by the Board of Directors.
+			* A special meeting of the Board of Directors shall be called by the Vice Chair within three
+				months of any vacancy for Pontifex Maximus.
 
 	* An even number of persons, elected by the Collegium Flaminum, each to serve a term of eight
 		years, the elections of which shall be staggered to every other year. The method of elections
@@ -98,15 +101,16 @@ identity, age, ancestry, national origin, nationality, citizenship, or disabilit
 ## 5. Cultic Priesthood
 
 The Cultic Priesthood shall be organized into Orders. Each Order is an independent organization
-dedicated to the Religio Romana and which have entered into an agreement of Full Communion with
+dedicated to the Religio Romana and which have entered into an Agreement of Full Communion with
 this Corporation as ratified by the Board of Directors.
 
-Each Order shall be head by a Flamen selected from their amongst their ranks. Each Order should
-have criteria to award the ranks of Sacerdos, Pontifex, and Flamen based upon services performed
+Each Order shall be head by a Flamen selected from amongst their ranks. Each Order should have
+criteria to award the ranks of Sacerdos, Pontifex, and Flamen based upon services performed
 and education obtained. Each Order shall keep their own bylaws.
 
-All Members of the Order and of their local temples shall be recognized as Members of this
-Corporation.
+All ordained priests of each Order shall be recognized as Active Members of this Corporation as
+long as they stay in good standing with their Order and fulfill the qualifications for Membership
+of this Corporation.
 
 The Flamines shall gather themselves together from time to time as the Collegium Flaminum for the
 election of Board of Directors and other business as they see fit.
@@ -121,6 +125,9 @@ election of Board of Directors and other business as they see fit.
 	accredited by the Corporation. To qualify for ordination as a Magister, a Minister must receive
 	the licensure necessary to work as a professional counselor in their locality.
 
+1. All Ministers and Magister shall be recognized as Members of this Corporation as long as they
+	continue to fulfill the qualifications for Membership of this Corporation.
+
 1. The Corporation shall venture to create or recognize local Curiae dedicated to the worship of
 	the whole pantheon and in service to their local community. Each Curia shall be led by an
 	ordained Minister or Magister of the Ministerial Priesthood, the selection of such shall be
@@ -131,20 +138,26 @@ election of Board of Directors and other business as they see fit.
 	1. the school services for young children regularly held during the times of service,
 	1. the liturgy of silence, and
 	1. a pantheonic worship lead by a Pater Familias, selected from amongst those of the Curia,
-		similar in style to their private Religio Domestica.
+		similar in style to their private Religio Domestica ritual.
 
-## 7. Patres Familias
+1. Ministers and Magisters not picked to lead or help at a Curia are encouraged to found a new
+	Curia.
 
-The title of "Pater Familias" may be conferred onto select Active Members to act as head of their
-household, regardless of sex, gender, or gender identity.
+## 7. Further Eligibility for Membership
 
-Responsibilities include:
+1. Persons who are not members of the Cultic Priesthood or the Ministerial Priesthood may join as
+	Active Members of the Corporation with the title of "Pater Familias" (plural _Patres Familias_).
 
-* Performing the religious rites for the household
-* Teaching the children of the house in the ways of the Religio Romana
-* Honoring the Lar Familias, Penates, and Vesta
+1. Each household is limited to one Pater Familias to lead the household, regardless of sex,
+	gender, or gender identity.
+	
+1. Responsibilities include:
 
-Other qualifications and responsibilities for such title shall be outlined in the Bylaws.
+	* Performing the religious rites for the household;
+	* Teaching the children of the house in the ways of the Religio Romana; and
+	* Honoring the Lares Familias, Penates, and Vesta
+
+1. Patres Familias are encouraged to join a local Curia or a temple of the Cultic Priesthood.
 
 ## 8. Officers
 
@@ -179,21 +192,34 @@ The Board of Directors shall have authority to establish other Offices of the Co
 needed. The Officers and their duties, responsibilities, qualifications, requirements, and
 method of selection shall by outlined in the Bylaws.
 
-## 9. Members
+## 9. Further Requirements for Members
 
-The Corporation will have Members.
+1. All Active Members of the Corporation must meet the following qualifications:
 
-Members are encouraged to join a local Curia or a temple of an Order of a Cultic Priesthood.
+	1. Complete training in a course accredited by the Corporation.
 
-Other qualifications and
+	1. Annual almsgiving in to the Corporation or to any combination of charities approved by the
+		Board of Directors.
+
+		* Unless the Member is a member of the Cultic Priesthood or the Ministerial Priesthood and is
+			recorded as having taken a vow of poverty.
+
+1. Other qualifications and responsibilities for such Active Members shall be outlined in the Bylaws.
+
+1. Failure to appropriately provide proof of almsgiving at the end of each 12-month period shall
+	result in the suspension of the person's Membership in the Corporation and any rights and
+	privileges thereof.
+
+1. No person can be denoted as a Member of the Corporation or any Curiae without their express
+	permission.
+
+1. Other qualifications and
 requirements to be considered as an Active Member of the Corporation shall be set in the Bylaws.
 
-No person can be denoted as a Member of the Corporation or any Curiae without their express
-permission.
-
-The Corporation, any Priest of any recognized Priesthood, and the Curiae shall not direct or
-encourage Members to shun any individual person, whether they be a current or former Member of
-the Corporation, a Priesthood, or a Curia or in any way unaffiliated with the Corporation.
+1. The Corporation, any priest of any Order of the Cultic Priesthood, and the Curiae shall not
+	direct or encourage Members and their families to shun any individual person, whether they be a
+	current or former Member of the Corporation, any Order of the Cultic Priesthood, or a Curia or
+	in any way unaffiliated with the Corporation.
 
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
