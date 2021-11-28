@@ -33,14 +33,18 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 
 ## 3. Organization of the Corporation
 
-The business affairs of the Corporation shall be managed by its Board of Directors and
-Officers. The Corporation will have Members and shall be organized as a confederation Orders of
-the Cultic Priesthood, Curiae led by the Ministerial Priesthood, and the Patres Familias.
+The business affairs of the Corporation shall be managed by its Board of Directors and Officers.
 
-The appointment to any position or to Membership of the Corporation and of the Curiae shall not
-be denied or abridged by race, color, ethnicity, sex, gender, sexual orientation, gender
-identity, ancestry, national origin, nationality, citizenship, or disability status, and cannot
-be denied to anyone eighteen years of age or older on account of age.
+The Corporation will have Members and shall be organized as a confederation of:
+* Orders of the Cultic Priesthood, the leaders of which form the Collegium Flaminum;
+* Curiae led by the Ministerial Priesthood; and
+* the Patres Familias.
+
+Membership of the Corporation and of the several Curiae, and the appointment to any position or
+office, or an offer of employment in the Corporation or any of the several Curiae, shall not be
+denied or abridged by race, color, ethnicity, sex, gender, sexual orientation, gender identity,
+ancestry, national origin, nationality, citizenship, or disability status, and cannot be denied
+to anyone eighteen years of age or older on account of age.
 
 ## 4. Board of Directors
 
@@ -51,50 +55,44 @@ be denied to anyone eighteen years of age or older on account of age.
 
 1. The Board of Directors shall be composed of the following individuals:
 
-	* The Incorporators, in a lifetime position as long as they are in good health and sound
-		state of mind.
+	* The Incorporators, in a lifetime position as long as they are in good health and sound state of
+		mind.
 
 	* The Pontifex Maximus, in a lifetime position as long as they are in good health, sound
 		state of mind, and continue to fulfill their duties as Pontifex Maximus. The Pontifex
 		Maximus shall serve as Chair of the Board, and the Directors shall elect another Director
 		as Vice Chair to serve as chair in his absence.
-			* The Pontifex Maximus shall be an ordained Pontiff or Flamen of a Cultic Priesthood or an
-				ordained Minister or Magister of the Ministerial Priesthood, and shall have held such
-				position for at least ten years before being elected Pontifex Maximus.
-			* The Pontifex Maximus shall be elected by the Board of Directors.
-			* A special meeting of the Board of Directors shall be called by the Vice Chair within three
-				months of any vacancy for Pontifex Maximus.
 
 	* An even number of persons, elected by the Collegium Flaminum, each to serve a term of eight
 		years, the elections of which shall be staggered to every other year. The method of elections
 		and how to fill any vacancy shall be outlined in the bylaws of the Collegium Flaminum.
 
-	* An odd number of persons, elected by the Ministers and Magisters, each to serve a term of six
+	* An odd number of persons, elected by the Ministerial Priesthood, each to serve a term of six
 		years, the elections of which shall be staggered to every other year with the results certified
 		by the Pontifex Maximus. The method of elections and how to fill any vacancy shall be outlined
 		in the bylaws of the Ministerial Priesthood.
 		
-	* An odd number of persons, elected by the Patres Familias, each to serve a term of three years,
-		the elections of which shall be staggered to occur once every year with the results certified
-		by the Pontifex Maximus. The method of elections and how to fill any vacancy shall be outlined
-		in the Bylaws of the Corporation.
+	* An odd number of persons, elected by the Patres Familias, but no more than the number of
+		Directors elected by the Ministerial Priesthood, each to serve a term of three years, the
+		elections of which shall be staggered to occur once every year with the results certified by
+		the Pontifex Maximus. The method of elections and how to fill any vacancy shall be outlined in
+		the Bylaws of the Corporation.
 
-1. Regular meetings of the Board shall be held at least once within any 3-month span, at a
-	time and place designated by the Pontifex Maximus, or by a resolution of the Board of
-	Directors.
+1. Regular meetings of the Board shall be held at least once within any 3-month span, at a time and
+	place designated by the Pontifex Maximus, or by a resolution of the Board of Directors.
 
-1. Special meetings may be called by the Pontifex Maximus, by a majority of the Board of Directors
+1. Special meetings may be called by the Pontifex Maximus, by a majority of the Board of Directors,
 	upon petition of a majority of the Collegium Flaminum, or upon petition of ten percent of the
 	Ministerial Priesthood.
 
 1. A majority of Directors, but no less than five, must be present at any meeting to call a quorum.
 
 1. The Board of Directors shall be tasked with keeping and maintaining the Bylaws of the
-	Corporation. The Bylaws may be amended at any meeting of the Board of Directors by a
-	majority vote of the Directors present.
+	Corporation. The Bylaws may be amended at any meeting of the Board of Directors by a majority
+	vote of the Directors present.
 
-1. Written notice of all meetings shall be given to each Director, Flamen, Pontifex, Magister, and
-	Minister in a reasonable time prior to the meeting as set in the Bylaws.
+1. Written notice of all meetings shall be given to each Member in a reasonable time prior to the
+	meeting, as set in the Bylaws.
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
 
@@ -160,6 +158,15 @@ election of Board of Directors and other business as they see fit.
 1. Patres Familias are encouraged to join a local Curia or a temple of the Cultic Priesthood.
 
 ## 8. Officers
+
+### Pontifex Maximus
+
+1. The Pontifex Maximus shall be an ordained Pontiff or Flamen of a Cultic Priesthood or an
+	ordained Minister or Magister of the Ministerial Priesthood, and shall have held such
+	position for at least ten years before being elected Pontifex Maximus.
+1. The Pontifex Maximus shall be elected by the Board of Directors.
+1. A special meeting of the Board of Directors shall be called by the Vice Chair within three
+	months of any vacancy for Pontifex Maximus.
 
 ### Rex Sacrorum
 
