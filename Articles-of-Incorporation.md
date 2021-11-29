@@ -133,15 +133,18 @@ election of Board of Directors and other business as they see fit.
 
 1. When a Curia is without the leadership of a Minister or Magister, they may continue to hold the
 	following religious services:
+
 	1. the school services for young children regularly held during the times of service,
+
 	1. the liturgy of silence, and
+
 	1. a pantheonic worship lead by a Pater Familias, selected from amongst those of the Curia,
 		similar in style to their private Religio Domestica ritual.
 
 1. Ministers and Magisters not picked to lead or help at a Curia are encouraged to found a new
 	Curia.
 
-## 7. Further Eligibility for Membership
+## 7. Patres Familias
 
 1. Persons who are not members of the Cultic Priesthood or the Ministerial Priesthood may join as
 	Active Members of the Corporation with the title of "Pater Familias" (plural _Patres Familias_).
@@ -152,7 +155,9 @@ election of Board of Directors and other business as they see fit.
 1. Responsibilities include:
 
 	* Performing the religious rites for the household;
+
 	* Teaching the children of the house in the ways of the Religio Romana; and
+
 	* Honoring the Lares Familias, Penates, and Vesta
 
 1. Patres Familias are encouraged to join a local Curia or a temple of the Cultic Priesthood.
@@ -161,12 +166,14 @@ election of Board of Directors and other business as they see fit.
 
 ### Pontifex Maximus
 
-1. The Pontifex Maximus shall be an ordained Pontiff or Flamen of a Cultic Priesthood or an
-	ordained Minister or Magister of the Ministerial Priesthood, and shall have held such
-	position for at least ten years before being elected Pontifex Maximus.
-1. The Pontifex Maximus shall be elected by the Board of Directors.
-1. A special meeting of the Board of Directors shall be called by the Vice Chair within three
-	months of any vacancy for Pontifex Maximus.
+The Pontifex Maximus shall be an ordained Pontiff or Flamen of a Cultic Priesthood or an
+ordained Minister or Magister of the Ministerial Priesthood, and shall have held such
+position for at least ten years before being elected Pontifex Maximus.
+
+The Pontifex Maximus shall be elected by the Board of Directors.
+
+A special meeting of the Board of Directors shall be called by the Vice Chair within three
+months of any vacancy for Pontifex Maximus.
 
 ### Rex Sacrorum
 
@@ -206,10 +213,7 @@ method of selection shall by outlined in the Bylaws.
 	1. Complete training in a course accredited by the Corporation.
 
 	1. Annual almsgiving in to the Corporation or to any combination of charities approved by the
-		Board of Directors.
-
-		* Unless the Member is a member of the Cultic Priesthood or the Ministerial Priesthood and is
-			recorded as having taken a vow of poverty.
+		Board of Directors, unless the Member is recorded as having taken a vow of poverty.
 
 1. Other qualifications and responsibilities for such Active Members shall be outlined in the Bylaws.
 
