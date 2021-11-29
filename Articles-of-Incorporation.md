@@ -208,24 +208,21 @@ method of selection shall by outlined in the Bylaws.
 
 ## 9. Further Requirements for Members
 
-1. All Active Members of the Corporation must meet the following qualifications:
+1. To join as a Member in the Corporation, every person must first complete training in a course
+	accredited by the Corporation.
 
-	1. Complete training in a course accredited by the Corporation.
+1. To maintain Active Membership in the Corporation, every Member must meet the following
+	responsibilities:
 
-	1. Annual almsgiving in to the Corporation or to any combination of charities approved by the
+	1. Annual almsgiving to the Corporation, or to any combination of charities approved by the
 		Board of Directors, unless the Member is recorded as having taken a vow of poverty.
 
-1. Other qualifications and responsibilities for such Active Members shall be outlined in the Bylaws.
+	1. Other qualifications and responsibilities for such Active Members shall be outlined in the
+		Bylaws.
 
-1. Failure to appropriately provide proof of almsgiving at the end of each 12-month period shall
-	result in the suspension of the person's Membership in the Corporation and any rights and
-	privileges thereof.
-
-1. No person can be denoted as a Member of the Corporation or any Curiae without their express
-	permission.
-
-1. Other qualifications and
-requirements to be considered as an Active Member of the Corporation shall be set in the Bylaws.
+1. Many Member who fails to appropriately meet their responsibilities by the end of each calendar
+	year shall be suspended of their Membership in the Corporation and any rights and privileges
+	thereof.
 
 1. The Corporation, any priest of any Order of the Cultic Priesthood, and the Curiae shall not
 	direct or encourage Members and their families to shun any individual person, whether they be a
