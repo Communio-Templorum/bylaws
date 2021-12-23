@@ -5,14 +5,24 @@ Bylaws of the Communio Templorum Romanorum
 
 ## Curiae
 
+1. The Curiae are designated to be community centers and safe havens for followers of the Religio
+	Romana and practitioners of the Cultus Deorum.
+
+1. Each Curia shall have its own board of directors to oversee their business affairs and maintain
+	their bylaws. Membership in the Curia shall be required of all board members. Membership in
+	this Corporation shall not be required to be a member of a Curia.
+
+1. Each Curia shall be led by an ordained Minister or Magister of the Ministerial Pesos, the
+	selection of which shall be determined by the Curia to best suit their needs.
+
 1. When a Curia is without the leadership of a Minister or Magister, they may continue to hold the
 	following religious services:
 
-	1. the school services for young children regularly held during or on the day of services,
+	1. the liturgy of silence,
 
-	1. the liturgy of silence, and
+	1. school services for young children regularly held on the day of services, and
 
-	1. a pantheonic worship lead by a Pater Familias, selected from amongst those of the Curia,
+	1. a pantheonic worship led by a Pater Familias, selected from amongst those of the Curia,
 		similar in style to their private Religio Domestica ritual.
 
 ## Membership
@@ -37,8 +47,8 @@ Bylaws of the Communio Templorum Romanorum
 	gender, or gender identity.
 
 1. To be granted title of Pater Familias, a person must either complete a course of study
-  accredited by the Corporation or must have been trained by thier parent or guardian
-  Pater Familias while living in their home for at least ten years.
+	accredited by the Corporation or must have been trained by thier parent or guardian
+	Pater Familias while living in their home for at least ten years.
 
 1. Responsibilities include:
 
@@ -46,6 +56,6 @@ Bylaws of the Communio Templorum Romanorum
 
 	* Teaching the children of the house in the ways of the Religio Romana; and
 
-	* Honoring the Lares Familias, Penates, and Vesta
+	* Honoring Janus, the Lares Familias, the Penates, and Vesta.
 
 1. Patres Familias are encouraged to join a local Curia or a temple of the Cultic Priesthood.
