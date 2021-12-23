@@ -24,7 +24,7 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 
 1. The Corporation is further tasked to promote and promulgate the Religio Romana, to
 	encourage new members to join in the rites and rituals of the religion, and to join or form
-	a local Temple of the Religio Romana.
+	a local Temple or Curia of the Religio Romana.
 
 1. The Corporation is further tasked with protecting the Relgio Romana and its Temples in
 	order to promote and safeguard the Pax Deorum.
