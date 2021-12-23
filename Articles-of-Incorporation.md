@@ -96,6 +96,17 @@ to anyone eighteen years of age or older on account of age.
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
 
+### Pontifex Maximus
+
+The Pontifex Maximus shall be an ordained Pontiff or Flamen of a Cultic Priesthood or an ordained
+Minister or Magister of the Ministerial Priesthood, and shall have held such position for at least
+ten years before being elected Pontifex Maximus.
+
+The Pontifex Maximus shall be elected by the Board of Directors.
+
+A special meeting of the Board of Directors shall be called by the Vice Chair within three months
+of any vacancy for Pontifex Maximus.
+
 ## 5. Cultic Priesthood
 
 The Cultic Priesthood shall be organized into Orders. Each Order is an independent organization
@@ -106,9 +117,9 @@ Each Order shall be head by a Flamen selected from amongst their ranks. Each Ord
 criteria to award the ranks of Sacerdos, Pontifex, and Flamen based upon services performed
 and education obtained. Each Order shall keep their own bylaws.
 
-All ordained priests of each Order shall be recognized as Active Members of this Corporation as
-long as they stay in good standing with their Order and fulfill the qualifications for Membership
-of this Corporation.
+All ordained priests of each Order shall be recognized as Active Members of the Corporation as
+long as they remain in good standing with their Order and fulfill the qualifications for
+Membership of the Corporation.
 
 The Flamines shall gather themselves together from time to time as the Collegium Flaminum for the
 election of Board of Directors and other business as they see fit.
@@ -121,28 +132,23 @@ election of Board of Directors and other business as they see fit.
 1. To qualify for ordination as a Minister, an Active Member must complete the appropriate program
 	of study to earn a Theologiae Baccalaureate degree from a seminary, college, or university
 	accredited by the Corporation. To qualify for ordination as a Magister, a Minister must receive
-	the licensure necessary to work as a professional counselor in their locality.
+	the licensure necessary to work as a professional counselor in their locality. All further
+	references below to a "Minister" shall apply to both Ministers and Magisters.
 
-1. All Ministers and Magister shall be recognized as Members of this Corporation as long as they
-	continue to fulfill the qualifications for Membership of this Corporation.
+1. All Ministers shall be recognized as Members of the Corporation as long as they continue to
+	fulfill the qualifications for Membership of the Corporation as outlined in the Bylaws of the
+	Corporation.
 
-1. The Corporation shall venture to create or recognize local Curiae dedicated to the worship of
-	the whole pantheon and in service to their local community. Each Curia shall be led by an
-	ordained Minister or Magister of the Ministerial Priesthood, the selection of such shall be
-	determined by the Curia to best suit their needs.
+1. The Corporation shall venture to create local Curiae dedicated to the worship of the whole
+	pantheon and in service to their local community.
 
-1. When a Curia is without the leadership of a Minister or Magister, they may continue to hold the
-	following religious services:
+	1. Each Curia shall be led by an ordained Minister of the Ministerial Priesthood, the selection
+		of such shall be determined by the Curia to best suit their needs.
 
-	1. the school services for young children regularly held during the times of service,
+	1. The Corporation shall outline what services all Curiae may provide to the community either
+		with or without a Minister.
 
-	1. the liturgy of silence, and
-
-	1. a pantheonic worship lead by a Pater Familias, selected from amongst those of the Curia,
-		similar in style to their private Religio Domestica ritual.
-
-1. Ministers and Magisters not picked to lead or help at a Curia are encouraged to found a new
-	Curia.
+1. Ministers not picked to lead or help at a Curia are encouraged to found a new Curia.
 
 ## 7. Patres Familias
 
@@ -151,29 +157,11 @@ election of Board of Directors and other business as they see fit.
 
 1. Each household is limited to one Pater Familias to lead the household, regardless of sex,
 	gender, or gender identity.
-	
-1. Responsibilities include:
 
-	* Performing the religious rites for the household;
-
-	* Teaching the children of the house in the ways of the Religio Romana; and
-
-	* Honoring the Lares Familias, Penates, and Vesta
-
-1. Patres Familias are encouraged to join a local Curia or a temple of the Cultic Priesthood.
+1. Qualifications, requirements, and responsibilities of the Patres Familias shall be outlined in
+	the Bylaws of the Corporation.
 
 ## 8. Officers
-
-### Pontifex Maximus
-
-The Pontifex Maximus shall be an ordained Pontiff or Flamen of a Cultic Priesthood or an
-ordained Minister or Magister of the Ministerial Priesthood, and shall have held such
-position for at least ten years before being elected Pontifex Maximus.
-
-The Pontifex Maximus shall be elected by the Board of Directors.
-
-A special meeting of the Board of Directors shall be called by the Vice Chair within three
-months of any vacancy for Pontifex Maximus.
 
 ### Rex Sacrorum
 
@@ -207,18 +195,6 @@ needed. The Officers and their duties, responsibilities, qualifications, require
 method of selection shall by outlined in the Bylaws.
 
 ## 9. Further Requirements for Members
-
-1. To join as a Member in the Corporation, every person must first complete training in a course
-	accredited by the Corporation.
-
-1. To maintain Active Membership in the Corporation, every Member must meet the following
-	responsibilities:
-
-	1. Annual almsgiving to the Corporation, or to any combination of charities approved by the
-		Board of Directors, unless the Member is recorded as having taken a vow of poverty.
-
-	1. Other qualifications and responsibilities for such Active Members shall be outlined in the
-		Bylaws.
 
 1. Many Member who fails to appropriately meet their responsibilities by the end of each calendar
 	year shall be suspended of their Membership in the Corporation and any rights and privileges
