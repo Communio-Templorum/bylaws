@@ -259,3 +259,30 @@ for such purposes.
 Amendments to these Articles of Incorporation shall only take effect upon agreement of
 three-fourths of the Board of Directors, two-thirds of the Collegium Flaminum, and a majority of
 the Ministerial Priesthood.
+
+## 13. Allowances for Vacancies and Operating as a Small Organization
+
+1. Until a Pontifex Maximus can be elected, the responsibilities of such shall be taken by the
+	Vice Chair of the Board of Directors.
+
+1. Until a Rex Sacrorum is selected, the Vice Chair of the Board of Directors shall act as
+	President of the Corporation.
+
+1. Until a Treasurer is selected, the President of the Corporation shall act as such.
+
+1. The Ministerial Priesthood shall not be eligible to vote for Board of Directors until there
+	are at least eleven Ministers.
+
+1. The Patres Familias shall not be eligible to vote for Board of Directors until there are at
+	least eleven Patres Familias.
+
+1. If the Patres Familias are eligible to vote for Board of Directors when the Ministerial
+	Priesthood is not, the Patres Familias are still entitled to vote for one Director.
+
+1. If the elected positions of Board of Directors do not number at least seven, then:
+	1. the Incorporators may appoint any Active Member to serve on the Board of Directors to fill
+		the Board with no more than seven Directors, each to serve a term of no more than three
+		years; and
+	2. the Board of Directors may elect any Active Member to serve on the Board of Directors to
+		fill the Board with no more than seven Directors, each to serve a term of no more than two
+		years.
