@@ -23,7 +23,7 @@ Flamen
 :information_source: Cardinal Priests
 
 Each recognized Ab Urbe Condita Cult shall have one Flamen, elected by that Cult's Pontifices, Board of
-Directors, or however else they seem fit, and confirmed by the Pontifex Maximus.
+Directors, or however else they see fit, and confirmed by the Pontifex Maximus.
 
 Each Flamen is charged with the responsibility of overseeing the rites and rituals of their Cult. The
 Flamen must work with the Pontiffs and Sacerdos in establishing and carrying out the rites and rituals
