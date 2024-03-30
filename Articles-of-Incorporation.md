@@ -91,7 +91,7 @@ to anyone eighteen years of age or older on account of age.
 	Corporation. The Bylaws may be amended at any meeting of the Board of Directors by a majority
 	vote of the Directors present.
 
-1. Written notice of all meetings shall be given to each Member in a reasonable time prior to the
+1. Written notice of all meetings shall be given to each Director in a reasonable time prior to the
 	meeting, as set in the Bylaws.
 
 * [ ] Add rules and regulations pursuant to [NC Statutes Chapter 55A, Article 8](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_8.pdf)
@@ -124,33 +124,37 @@ Membership of the Corporation.
 The Flamines shall gather themselves together from time to time as the Collegium Flaminum for the
 election of Board of Directors and other business as they see fit.
 
-## 6. Curiae and the Ministerial Priesthood
+## 6. Ministerial Priesthood
 
 1. The Ministerial Priesthood shall consist of Ministers and Magisters, priests who have dedicated
 	themselves in pantheonic service to their communities.
 
 1. To qualify for ordination as a Minister, an Active Member must complete the appropriate program
 	of study to earn a Theologiae Baccalaureate degree from a seminary, college, or university
-	accredited by the Corporation. To qualify for ordination as a Magister, a Minister must receive
+	accredited by the Corporation.
+
+1. To qualify for ordination as a Magister, a Minister must further receive
 	the licensure necessary to work as a professional counselor in their locality. All further
-	references below to a "Minister" shall apply to both Ministers and Magisters.
+	references in these Articles to a "Minister" shall apply to both Ministers and Magisters.
 
 1. All Ministers shall be recognized as Members of the Corporation as long as they continue to
 	fulfill the qualifications for Membership of the Corporation as outlined in the Bylaws of the
 	Corporation.
 
-1. The Corporation shall venture to create local Curiae dedicated to the worship of the whole
-	pantheon and in service to their local community.
-
-	1. Each Curia shall be led by an ordained Minister of the Ministerial Priesthood, the selection
-		of such shall be determined by the Curia to best suit their needs.
-
-	1. The Corporation shall outline what services all Curiae may provide to the community either
-		with or without a Minister.
-
 1. Ministers not picked to lead or help at a Curia are encouraged to found a new Curia.
 
-## 7. Patres Familias
+## 7. Curiae
+
+1. The Corporation shall venture to create and cultivate local Curiae dedicated to the worship of the whole
+	pantheon and in service to their local community.
+
+1. Each Curia shall be an independent organization led by their members, who need not be Members of
+	the Corporation.
+
+1. Each Curia should seek to support, and be supported by, an ordained Minister of the Ministerial Priesthood, the selection
+	of whom shall be determined by the Curia to best suit their needs.
+
+## 8. Patres Familias
 
 1. Persons who are not members of the Cultic Priesthood or the Ministerial Priesthood may join as
 	Active Members of the Corporation with the title of "Pater Familias" (plural _Patres Familias_).
@@ -161,7 +165,7 @@ election of Board of Directors and other business as they see fit.
 1. Qualifications, requirements, and responsibilities of the Patres Familias shall be outlined in
 	the Bylaws of the Corporation.
 
-## 8. Officers
+## 9. Officers
 
 ### Rex Sacrorum
 
@@ -194,7 +198,7 @@ The Board of Directors shall have authority to establish other Offices of the Co
 needed. The Officers and their duties, responsibilities, qualifications, requirements, and
 method of selection shall by outlined in the Bylaws.
 
-## 9. Further Requirements for Members
+## 10. Further Requirements for Members
 
 1. Many Member who fails to appropriately meet their responsibilities by the end of each calendar
 	year shall be suspended of their Membership in the Corporation and any rights and privileges
@@ -208,7 +212,7 @@ method of selection shall by outlined in the Bylaws.
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
 * [ ] Add rules and responsbilities for Members pursuant to [NC Statutes Chapter 55A, Article 7](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_7.pdf)
 
-## 10. Prohibited Activities
+## 11. Prohibited Activities
 
 No part of the net earnings of the Corporation shall inure to the benefit of or be
 distributable to, its Members, Directors, Officers, or other private persons except that the
@@ -239,7 +243,7 @@ income tax under Section 501(c)(3) of the Internal Revenue Code of 1986 or (b) b
 contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code of
 1986.
 
-## 11. Distributions Upon Dissolution
+## 12. Distributions Upon Dissolution
 
 Upon the dissolution of the Corporation, the Board of Directors shall, after paying or making
 provision for the payment of all of the liabilities of the Corporation, dispose of all of the
@@ -254,13 +258,13 @@ located, exclusively for such purposes or to such organizations, such as the Cou
 determine, which are organized and operated exclusively for such purposes, or to such governments
 for such purposes.
 
-## 12. Amendments to the Articles of Incorporation
+## 13. Amendments to the Articles of Incorporation
 
 Amendments to these Articles of Incorporation shall only take effect upon agreement of
 three-fourths of the Board of Directors, two-thirds of the Collegium Flaminum, and a majority of
 the Ministerial Priesthood.
 
-## 13. Allowances for Vacancies and Operating as a Small Organization
+## 14. Allowances for Vacancies and Operating as a Small Organization
 
 1. Until a Pontifex Maximus can be elected, the responsibilities of such shall be taken by the
 	Vice Chair of the Board of Directors.
