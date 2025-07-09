@@ -23,8 +23,9 @@ A 501(c)(25) title-holding corporation owning properties. All profits are distri
 shareholders. All shareholders must be non-profit organizations recognized as tax-exempt
 by the IRS.
 
-Owned properties are primarily geared to providing home and shelter for homeless persons
-and families living in poverty.
+Owned properties are primarily geared to
+1. providing home and shelter for homeless persons and families living in poverty,
+2. to be run as hotels, inns, lodges, and other short-term accommodations to travelers.
 
 ### Outstanding Shares
 * x shares to Communio Templorum Romanorum
