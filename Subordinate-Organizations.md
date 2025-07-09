@@ -5,6 +5,10 @@ Subordinate Organizations
 
 A 501(c)(13) non-profit cemetery.
 
+## Bibliotheca
+
+A 501(c)(3) non-profit educational institute dedicated to preserving religious and Ancient Roman texts and academic resources on the topics of Ancient Rome and the Religio Romana, and to serve as the main library of the Romanorum Theological University.
+
 ## Romanorum Theological University
 
 A 501(c)(3) non-profit educational institute dedicated to training future generations of
