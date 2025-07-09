@@ -12,7 +12,7 @@ Bylaws of the Communio Templorum Romanorum
 	their bylaws. Membership in the Curia shall be required of all board members. Membership in
 	this Corporation shall not be required to be a member of a Curia.
 
-1. Each Curia shall be led by an ordained Minister or Magister of the Ministerial Pesos, the
+1. Each Curia shall be led by an ordained Minister or Magister of the Ministerial Priesthood, the
 	selection of which shall be determined by the Curia to best suit their needs.
 
 1. When a Curia is without the leadership of a Minister or Magister, they may continue to hold the
