@@ -43,7 +43,7 @@ Bylaws of the Communio Templorum Romanorum
 	charged with performing the following rites and rituals:
 	1. initiate new followers to the Religio Romana,
 	2. officiate weddings,
-	3. initiate new borns to the Religio Romana,
+	3. initiate newborns to the Religio Romana,
 	4. officiate funerals.
 
 ## Patres Familias
