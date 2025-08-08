@@ -36,7 +36,7 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 The business affairs of the Corporation shall be managed by its Board of Directors and Officers.
 
 The Corporation will have Members and shall be organized as a confederation of:
-* Collegia of Cultic Priesthood, the leaders of which form the Collegium Flaminum;
+* Collegia of the Cultic Priesthood, the leaders of which form the Collegium Flaminum;
 * Curiae led by the Ministerial Priesthood; and
 * the Patres Familias.
 
@@ -98,7 +98,7 @@ on account of age to anyone who has attained the age of majority in their locale
 
 ### Pontifex Maximus
 
-The Pontifex Maximus shall be an ordained Pontiff or Flamen of a Cultic Priesthood or an ordained
+The Pontifex Maximus shall be an ordained Pontifex or Flamen of the Cultic Priesthood or an ordained
 Minister or Magister of the Ministerial Priesthood, and shall have held such position for at least
 ten years before being elected Pontifex Maximus.
 
@@ -134,12 +134,14 @@ election of Board of Directors and other business as they see fit.
 	accredited by the Corporation.
 
 1. To qualify for ordination as a Magister, a Minister must further receive
-	the licensure necessary to work as a professional counselor in their locality. All further
-	references in these Articles to a "Minister" shall apply to both Ministers and Magisters.
+	the training necessary and abide by a proper, professional code of ethics as though they were to work as a professional, licensed counselor in their locality. All further
+	references in these Articles to a "Minister" or "Ministers" shall apply to both Ministers and Magisters.
 
 1. All Ministers shall be recognized as Members of the Corporation as long as they continue to
-	fulfill the qualifications for Membership of the Corporation as outlined in the Bylaws of the
-	Corporation.
+	fulfill the Qualifications for Membership of the Corporation as outlined in these Articles and the Bylaws of the
+	Corporation, including a Code of Ethics.
+
+1. Any Minister who is found to be in violation of the Code of Ethics or Qualifications for Membership will be subject to removal from their position. The Board of Directors shall outline a clear and detailed procedure for investigating any allegations and determining the appropriate course of action, which may include suspension, revocation of credentials, or removal from the role of Magister or Minister, within the Bylaws.
 
 1. Ministers not picked to lead or help at a Curia are encouraged to found a new Curia.
 
