@@ -36,7 +36,7 @@ The Corporation may do business under the name <ins>Communio Templorum</ins> or 
 The business affairs of the Corporation shall be managed by its Board of Directors and Officers.
 
 The Corporation will have Members and shall be organized as a confederation of:
-* Orders of the Cultic Priesthood, the leaders of which form the Collegium Flaminum;
+* Collegia of Cultic Priesthood, the leaders of which form the Collegium Flaminum;
 * Curiae led by the Ministerial Priesthood; and
 * the Patres Familias.
 
@@ -44,7 +44,7 @@ Membership of the Corporation and of the several Curiae, and the appointment to 
 office, or an offer of employment in the Corporation or any of the several Curiae, shall not be
 denied or abridged by race, color, ethnicity, sex, gender, sexual orientation, gender identity,
 ancestry, national origin, nationality, citizenship, or disability status, and cannot be denied
-to anyone eighteen years of age or older on account of age.
+on account of age to anyone who has attained the age of majority in their locale.
 
 ## 4. Board of Directors
 
@@ -109,16 +109,16 @@ of any vacancy for Pontifex Maximus.
 
 ## 5. Cultic Priesthood
 
-The Cultic Priesthood shall be organized into Orders. Each Order is an independent organization
+The Cultic Priesthood shall be organized into Collegia. Each Collegium is an independent organization
 dedicated to the Religio Romana and which have entered into an Agreement of Full Communion with
 this Corporation as ratified by the Board of Directors.
 
-Each Order shall be head by a Flamen selected from amongst their ranks. Each Order should have
+Each Collegium shall be head by a Flamen selected from amongst their ranks. Each Collegium should have
 criteria to award the ranks of Sacerdos, Pontifex, and Flamen based upon services performed
-and education obtained. Each Order shall keep their own bylaws.
+and education obtained. Each Collegium shall keep their own bylaws.
 
-All ordained priests of each Order shall be recognized as Active Members of the Corporation as
-long as they remain in good standing with their Order and fulfill the qualifications for
+All ordained priests of each Collegium shall be recognized as Active Members of the Corporation as
+long as they remain in good standing with their Collegium and fulfill the qualifications for
 Membership of the Corporation.
 
 The Flamines shall gather themselves together from time to time as the Collegium Flaminum for the
@@ -160,7 +160,7 @@ election of Board of Directors and other business as they see fit.
 	Active Members of the Corporation with the title of "Pater Familias" (plural _Patres Familias_).
 
 1. Each household is limited to one Pater Familias to lead the household, regardless of sex,
-	gender, or gender identity.
+	gender, sexual orientation, or gender identity.
 
 1. Qualifications, requirements, and responsibilities of the Patres Familias shall be outlined in
 	the Bylaws of the Corporation.
@@ -200,13 +200,13 @@ method of selection shall by outlined in the Bylaws.
 
 ## 10. Further Requirements for Members
 
-1. Many Member who fails to appropriately meet their responsibilities by the end of each calendar
+1. Any Member who fails to appropriately meet their responsibilities by the end of each calendar
 	year shall be suspended of their Membership in the Corporation and any rights and privileges
 	thereof.
 
-1. The Corporation, any priest of any Order of the Cultic Priesthood, and the Curiae shall not
-	direct or encourage Members and their families to shun any individual person, whether they be a
-	current or former Member of the Corporation, any Order of the Cultic Priesthood, or a Curia or
+1. The Corporation, any priest of any Collegium of the Cultic Priesthood, and the Curiae shall not
+	direct or encourage Members or their families to shun any individual person, whether or not such person be a
+	current or former Member of the Corporation, any Collegium of the Cultic Priesthood, or a Curia or
 	in any way unaffiliated with the Corporation.
 
 * [ ] Delineate qualifications for Members pursuant to [NC Statutes Chapter 55A, Article 6](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_55A/Article_6.pdf)
