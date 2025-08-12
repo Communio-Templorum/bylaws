@@ -25,22 +25,22 @@ Flamen
 Each recognized Ab Urbe Condita Cult shall have one Flamen, elected by that Cult's Pontifices, Board of
 Directors, or however else they see fit, and confirmed by the Pontifex Maximus.
 
-Each Flamen is charged with the responsibility of overseeing the rites and rituals of their Cult. The
-Flamen must work with the Pontiffs and Sacerdos in establishing and carrying out the rites and rituals
-and promulgating such to all temples, priests, practitioners, and followers of their Cult/Order.
+Each Flamen is charged with the responsibility of overseeing the rites and rituals of their Collegium. The
+Flamen must work with the Pontifices and Sacerdos in establishing and carrying out the rites and rituals
+and promulgating such to all temples, priests, practitioners, and followers of their Collegium.
 
 Pontifex
 -------
 :information_source: Senior Priest
 
-Each Order/Cult led by a Flamen shall be given the responsibility and obligation to ordain Pontifices
+Each Collegium led by a Flamen shall be given the responsibility and obligation to ordain Pontifices
 from their ranks of Sacerdotes.
 
 Sacerdos
 --------
 :information_source: Priest
 
-Each Order/Cult led by a Flamen shall be given the responsibility and obligation to ordain Sacerdotes.
+Each Collegium/Cult led by a Flamen shall be given the responsibility and obligation to ordain Sacerdotes.
 
 Magister
 --------
@@ -48,7 +48,7 @@ Magister
 ℹ️ Teacher
 
 Like a Minister below, providing services for a community, but with the additional training
-necessary to provide licensed counseling services.
+and code of ethics necessary to provide licensed counseling services.
 
 Minister
 --------
@@ -63,7 +63,7 @@ Romana. Their responsibilities shall include:
 
 Pater Familias
 -----
-:information_source: The head of the household _regardless of sex, gender, or gender identity_.
+:information_source: The head of the household _regardless of sex, gender, sexual orientation, or gender identity_.
 
 Responsibilities include:
 * Performing the religious rites for the household

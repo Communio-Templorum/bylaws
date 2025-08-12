@@ -49,7 +49,7 @@ Bylaws of the Communio Templorum Romanorum
 ## Patres Familias
 
 1. Each household is limited to one Pater Familias to lead the household, regardless of sex,
-	gender, or gender identity.
+	gender, sexual orientation, or gender identity.
 
 1. To be granted title of Pater Familias, a person must either complete a course of study
 	accredited by the Corporation or must have been trained by thier parent or guardian Pater

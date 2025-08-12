@@ -36,3 +36,11 @@ Owned properties are primarily geared to
 * x shares to Communitas Hospitii
 * x shares to Romanorum Theological University
 * x shares to Sepulcretum
+
+## Fraternity
+
+A 501(c)(10) organization.
+
+## Fraternal Benefits Society
+
+A 501(c)(8) organization.
